@@ -1,0 +1,805 @@
+2020-06-21 16:27:42,706 [main] INFO RestAPI test - *********Started TC00Create_Employees **********
+2020-06-21 16:27:52,793 [main] INFO RestAPI test - ***********  Checking Content Lenght**********
+2020-06-21 16:27:52,794 [main] INFO RestAPI test - Content Length is==>85
+2020-06-21 16:27:52,794 [main] WARN RestAPI test - Content Length is less than 100
+2020-06-21 16:27:52,799 [main] INFO RestAPI test - ***********  Checking Content Type **********
+2020-06-21 16:27:52,800 [main] INFO RestAPI test - Content type is ==>application/json;charset=utf-8
+2020-06-21 16:27:52,802 [main] INFO RestAPI test - ***********  Checking Cookies **********
+2020-06-21 16:27:52,805 [main] INFO RestAPI test - ***********  Checking Content Encoding**********
+2020-06-21 16:27:52,806 [main] INFO RestAPI test - Content Encoding is==>null
+2020-06-21 16:27:52,808 [main] INFO RestAPI test - Checking repsonse body
+2020-06-21 16:27:52,816 [main] INFO RestAPI test - response body is{"status":"success","data":{"name":"Deepthidyv","salary":"94066","age":"64","id":84}}
+2020-06-21 16:27:52,820 [main] INFO RestAPI test - Checking response time
+2020-06-21 16:27:52,820 [main] INFO RestAPI test - response time is2023
+2020-06-21 16:27:52,821 [main] WARN RestAPI test - Response Time is greater than 2000
+2020-06-21 16:27:52,823 [main] INFO RestAPI test - ***********  Checking Server Type **********
+2020-06-21 16:27:52,824 [main] INFO RestAPI test - Server Type is =>nginx/1.16.0
+2020-06-21 16:27:52,826 [main] INFO RestAPI test - ***********  Checking Status Line **********
+2020-06-21 16:27:52,827 [main] INFO RestAPI test - Status Line is ==>HTTP/1.1 200 OK
+2020-06-21 16:27:52,829 [main] INFO RestAPI test - Checking status code
+2020-06-21 16:27:52,829 [main] INFO RestAPI test - response code is200
+2020-06-21 16:27:52,831 [main] INFO RestAPI test - *********  Finished TC001_Get_All_Employees **********
+2020-06-21 16:40:06,533 [main] INFO RestAPI test - *********Started TC005_Delete_Employee_Record **********
+2020-06-21 16:40:13,526 [main] INFO RestAPI test - *********  Finished TC005_Delete_Employee_Record **********
+2020-06-21 16:41:46,975 [main] INFO RestAPI test - *********Started TC005_Delete_Employee_Record **********
+2020-06-21 16:41:54,409 [main] INFO RestAPI test - *********  Finished TC005_Delete_Employee_Record **********
+2020-06-21 16:43:19,004 [main] INFO RestAPI test - *********Started TC005_Delete_Employee_Record **********
+2020-06-21 16:44:08,384 [main] INFO RestAPI test - *********  Finished TC005_Delete_Employee_Record **********
+2020-06-21 16:44:50,620 [main] INFO RestAPI test - *********Started TC005_Delete_Employee_Record **********
+2020-06-21 16:46:08,620 [main] INFO RestAPI test - *********Started TC005_Delete_Employee_Record **********
+2020-06-21 16:47:28,843 [main] INFO RestAPI test - *********Started TC005_Delete_Employee_Record **********
+2020-06-21 16:48:57,549 [main] INFO RestAPI test - *********  Finished TC005_Delete_Employee_Record **********
+2020-06-21 16:49:30,279 [main] INFO RestAPI test - *********Started TC005_Delete_Employee_Record **********
+2020-06-21 16:49:36,531 [main] INFO RestAPI test - *********  Finished TC005_Delete_Employee_Record **********
+2020-06-21 16:49:59,729 [main] INFO RestAPI test - *********Started TC005_Delete_Employee_Record **********
+2020-06-21 16:50:56,696 [main] INFO RestAPI test - *********  Finished TC005_Delete_Employee_Record **********
+2020-06-21 16:56:24,841 [main] INFO RestAPI test - *********Started TC001_Get_All_Employees **********
+2020-06-21 16:56:30,230 [main] INFO RestAPI test - ***********  Checking Content Lenght**********
+2020-06-21 16:56:30,231 [main] INFO RestAPI test - Content Length is==>595
+2020-06-21 16:56:30,233 [main] INFO RestAPI test - ***********  Checking Content Type **********
+2020-06-21 16:56:30,234 [main] INFO RestAPI test - Content type is ==>application/json;charset=utf-8
+2020-06-21 16:56:30,235 [main] INFO RestAPI test - ***********  Checking Cookies **********
+2020-06-21 16:56:30,238 [main] INFO RestAPI test - ***********  Checking Content Encoding**********
+2020-06-21 16:56:30,238 [main] INFO RestAPI test - Content Encoding is==>gzip
+2020-06-21 16:56:30,240 [main] INFO RestAPI test - Checking repsonse body
+2020-06-21 16:56:30,257 [main] INFO RestAPI test - response body is{"status":"success","data":[{"id":"1","employee_name":"Tiger Nixon","employee_salary":"320800","employee_age":"61","profile_image":""},{"id":"2","employee_name":"Garrett Winters","employee_salary":"170750","employee_age":"63","profile_image":""},{"id":"3","employee_name":"Ashton Cox","employee_salary":"86000","employee_age":"66","profile_image":""},{"id":"4","employee_name":"Cedric Kelly","employee_salary":"433060","employee_age":"22","profile_image":""},{"id":"5","employee_name":"Airi Satou","employee_salary":"162700","employee_age":"33","profile_image":""},{"id":"6","employee_name":"Brielle Williamson","employee_salary":"372000","employee_age":"61","profile_image":""},{"id":"7","employee_name":"Herrod Chandler","employee_salary":"137500","employee_age":"59","profile_image":""},{"id":"8","employee_name":"Rhona Davidson","employee_salary":"327900","employee_age":"55","profile_image":""},{"id":"9","employee_name":"Colleen Hurst","employee_salary":"205500","employee_age":"39","profile_image":""},{"id":"10","employee_name":"Sonya Frost","employee_salary":"103600","employee_age":"23","profile_image":""},{"id":"11","employee_name":"Jena Gaines","employee_salary":"90560","employee_age":"30","profile_image":""},{"id":"12","employee_name":"Quinn Flynn","employee_salary":"342000","employee_age":"22","profile_image":""},{"id":"13","employee_name":"Charde Marshall","employee_salary":"470600","employee_age":"36","profile_image":""},{"id":"14","employee_name":"Haley Kennedy","employee_salary":"313500","employee_age":"43","profile_image":""},{"id":"15","employee_name":"Tatyana Fitzpatrick","employee_salary":"385750","employee_age":"19","profile_image":""},{"id":"16","employee_name":"Michael Silva","employee_salary":"198500","employee_age":"66","profile_image":""},{"id":"17","employee_name":"Paul Byrd","employee_salary":"725000","employee_age":"64","profile_image":""},{"id":"18","employee_name":"Gloria Little","employee_salary":"237500","employee_age":"59","profile_image":""},{"id":"19","employee_name":"Bradley Greer","employee_salary":"132000","employee_age":"41","profile_image":""},{"id":"20","employee_name":"Dai Rios","employee_salary":"217500","employee_age":"35","profile_image":""},{"id":"21","employee_name":"Jenette Caldwell","employee_salary":"345000","employee_age":"30","profile_image":""},{"id":"22","employee_name":"Yuri Berry","employee_salary":"675000","employee_age":"40","profile_image":""},{"id":"23","employee_name":"Caesar Vance","employee_salary":"106450","employee_age":"21","profile_image":""},{"id":"24","employee_name":"Doris Wilder","employee_salary":"85600","employee_age":"23","profile_image":""}]}
+2020-06-21 16:56:30,261 [main] INFO RestAPI test - Checking response time
+2020-06-21 16:56:30,261 [main] INFO RestAPI test - response time is1355
+2020-06-21 16:56:30,263 [main] INFO RestAPI test - ***********  Checking Server Type **********
+2020-06-21 16:56:30,263 [main] INFO RestAPI test - Server Type is =>nginx/1.16.0
+2020-06-21 16:56:30,265 [main] INFO RestAPI test - ***********  Checking Status Line **********
+2020-06-21 16:56:30,265 [main] INFO RestAPI test - Status Line is ==>HTTP/1.1 200 OK
+2020-06-21 16:56:30,268 [main] INFO RestAPI test - Checking status code
+2020-06-21 16:56:30,268 [main] INFO RestAPI test - response code is200
+2020-06-21 16:56:30,269 [main] INFO RestAPI test - *********  Finished TC001_Get_All_Employees **********
+2020-06-21 16:56:30,273 [main] INFO RestAPI test - *********Started TC005_Delete_Employee_Record **********
+2020-06-21 16:56:34,676 [main] INFO RestAPI test - *********  Finished TC005_Delete_Employee_Record **********
+2020-06-21 16:56:34,680 [main] INFO RestAPI test - *********Started TC001_Get_Single_Employee details **********
+2020-06-21 16:56:38,554 [main] INFO RestAPI test - ***********  Checking Content Lenght**********
+2020-06-21 16:56:38,555 [main] INFO RestAPI test - Content Length is==>75
+2020-06-21 16:56:38,555 [main] WARN RestAPI test - Content Length is less than 100
+2020-06-21 16:56:38,558 [main] INFO RestAPI test - ***********  Checking Content Type **********
+2020-06-21 16:56:38,558 [main] INFO RestAPI test - Content type is ==>application/json;charset=utf-8
+2020-06-21 16:56:38,560 [main] INFO RestAPI test - ***********  Checking Cookies **********
+2020-06-21 16:56:38,563 [main] INFO RestAPI test - ***********  Checking Content Encoding**********
+2020-06-21 16:56:38,563 [main] INFO RestAPI test - Content Encoding is==>null
+2020-06-21 16:56:38,566 [main] INFO RestAPI test - Checking repsonse body
+2020-06-21 16:56:38,567 [main] INFO RestAPI test - response body is{"status":"failed","message":"Oops! someting issue found to fetch record."}
+2020-06-21 16:56:38,570 [main] INFO RestAPI test - Checking response time
+2020-06-21 16:56:38,570 [main] INFO RestAPI test - response time is869
+2020-06-21 16:56:38,573 [main] INFO RestAPI test - ***********  Checking Server Type **********
+2020-06-21 16:56:38,574 [main] INFO RestAPI test - Server Type is =>nginx/1.16.0
+2020-06-21 16:56:38,576 [main] INFO RestAPI test - ***********  Checking Status Line **********
+2020-06-21 16:56:38,577 [main] INFO RestAPI test - Status Line is ==>HTTP/1.1 400 Bad Request
+2020-06-21 16:56:38,580 [main] INFO RestAPI test - Checking status code
+2020-06-21 16:56:38,580 [main] INFO RestAPI test - response code is400
+2020-06-21 16:56:38,583 [main] INFO RestAPI test - *********  Finished TC001_Getsingle_Employee **********
+2020-06-21 16:56:38,588 [main] INFO RestAPI test - *********Started TC00Create_Employees **********
+2020-06-21 16:56:46,554 [main] INFO RestAPI test - ***********  Checking Content Lenght**********
+2020-06-21 16:56:46,555 [main] INFO RestAPI test - Content Length is==>85
+2020-06-21 16:56:46,555 [main] WARN RestAPI test - Content Length is less than 100
+2020-06-21 16:56:46,558 [main] INFO RestAPI test - ***********  Checking Content Type **********
+2020-06-21 16:56:46,558 [main] INFO RestAPI test - Content type is ==>application/json;charset=utf-8
+2020-06-21 16:56:46,559 [main] INFO RestAPI test - ***********  Checking Cookies **********
+2020-06-21 16:56:46,560 [main] INFO RestAPI test - ***********  Checking Content Encoding**********
+2020-06-21 16:56:46,560 [main] INFO RestAPI test - Content Encoding is==>null
+2020-06-21 16:56:46,562 [main] INFO RestAPI test - Checking repsonse body
+2020-06-21 16:56:46,562 [main] INFO RestAPI test - response body is{"status":"success","data":{"name":"DeepthiaRL","salary":"02912","age":"16","id":45}}
+2020-06-21 16:56:46,564 [main] INFO RestAPI test - Checking response time
+2020-06-21 16:56:46,565 [main] INFO RestAPI test - response time is952
+2020-06-21 16:56:46,567 [main] INFO RestAPI test - ***********  Checking Server Type **********
+2020-06-21 16:56:46,567 [main] INFO RestAPI test - Server Type is =>nginx/1.16.0
+2020-06-21 16:56:46,569 [main] INFO RestAPI test - ***********  Checking Status Line **********
+2020-06-21 16:56:46,569 [main] INFO RestAPI test - Status Line is ==>HTTP/1.1 200 OK
+2020-06-21 16:56:46,571 [main] INFO RestAPI test - Checking status code
+2020-06-21 16:56:46,571 [main] INFO RestAPI test - response code is200
+2020-06-21 16:56:46,574 [main] INFO RestAPI test - *********  Finished TC001_Get_All_Employees **********
+2020-06-21 16:56:46,578 [main] INFO RestAPI test - *********Started update employees **********
+2020-06-21 16:56:54,436 [main] INFO RestAPI test - ***********  Checking Content Lenght**********
+2020-06-21 16:56:54,437 [main] INFO RestAPI test - Content Length is==>32
+2020-06-21 16:56:54,437 [main] WARN RestAPI test - Content Length is less than 100
+2020-06-21 16:56:54,440 [main] INFO RestAPI test - ***********  Checking Content Type **********
+2020-06-21 16:56:54,440 [main] INFO RestAPI test - Content type is ==>application/json;charset=utf-8
+2020-06-21 16:56:54,442 [main] INFO RestAPI test - ***********  Checking Cookies **********
+2020-06-21 16:56:54,444 [main] INFO RestAPI test - ***********  Checking Content Encoding**********
+2020-06-21 16:56:54,444 [main] INFO RestAPI test - Content Encoding is==>null
+2020-06-21 16:56:54,447 [main] INFO RestAPI test - Checking repsonse body
+2020-06-21 16:56:54,448 [main] INFO RestAPI test - response body is{"status":"success","data":null}
+2020-06-21 16:56:54,450 [main] INFO RestAPI test - Checking response time
+2020-06-21 16:56:54,451 [main] INFO RestAPI test - response time is851
+2020-06-21 16:56:54,454 [main] INFO RestAPI test - ***********  Checking Server Type **********
+2020-06-21 16:56:54,454 [main] INFO RestAPI test - Server Type is =>nginx/1.16.0
+2020-06-21 16:56:54,456 [main] INFO RestAPI test - ***********  Checking Status Line **********
+2020-06-21 16:56:54,457 [main] INFO RestAPI test - Status Line is ==>HTTP/1.1 200 OK
+2020-06-21 16:56:54,459 [main] INFO RestAPI test - Checking status code
+2020-06-21 16:56:54,459 [main] INFO RestAPI test - response code is200
+2020-06-21 16:56:54,460 [main] INFO RestAPI test - *********  Finished TC001_Update_Employees **********
+2020-06-21 18:43:34,898 [main] INFO RestAPI test - *********Started TC001_Get_All_Employees **********
+2020-06-21 18:43:40,834 [main] INFO RestAPI test - ***********  Checking Content Lenght**********
+2020-06-21 18:43:40,835 [main] INFO RestAPI test - Content Length is==>595
+2020-06-21 18:43:40,838 [main] INFO RestAPI test - ***********  Checking Content Type **********
+2020-06-21 18:43:40,839 [main] INFO RestAPI test - Content type is ==>application/json;charset=utf-8
+2020-06-21 18:43:40,841 [main] INFO RestAPI test - ***********  Checking Cookies **********
+2020-06-21 18:43:40,844 [main] INFO RestAPI test - ***********  Checking Content Encoding**********
+2020-06-21 18:43:40,845 [main] INFO RestAPI test - Content Encoding is==>gzip
+2020-06-21 18:43:40,848 [main] INFO RestAPI test - Checking repsonse body
+2020-06-21 18:43:40,871 [main] INFO RestAPI test - response body is{"status":"success","data":[{"id":"1","employee_name":"Tiger Nixon","employee_salary":"320800","employee_age":"61","profile_image":""},{"id":"2","employee_name":"Garrett Winters","employee_salary":"170750","employee_age":"63","profile_image":""},{"id":"3","employee_name":"Ashton Cox","employee_salary":"86000","employee_age":"66","profile_image":""},{"id":"4","employee_name":"Cedric Kelly","employee_salary":"433060","employee_age":"22","profile_image":""},{"id":"5","employee_name":"Airi Satou","employee_salary":"162700","employee_age":"33","profile_image":""},{"id":"6","employee_name":"Brielle Williamson","employee_salary":"372000","employee_age":"61","profile_image":""},{"id":"7","employee_name":"Herrod Chandler","employee_salary":"137500","employee_age":"59","profile_image":""},{"id":"8","employee_name":"Rhona Davidson","employee_salary":"327900","employee_age":"55","profile_image":""},{"id":"9","employee_name":"Colleen Hurst","employee_salary":"205500","employee_age":"39","profile_image":""},{"id":"10","employee_name":"Sonya Frost","employee_salary":"103600","employee_age":"23","profile_image":""},{"id":"11","employee_name":"Jena Gaines","employee_salary":"90560","employee_age":"30","profile_image":""},{"id":"12","employee_name":"Quinn Flynn","employee_salary":"342000","employee_age":"22","profile_image":""},{"id":"13","employee_name":"Charde Marshall","employee_salary":"470600","employee_age":"36","profile_image":""},{"id":"14","employee_name":"Haley Kennedy","employee_salary":"313500","employee_age":"43","profile_image":""},{"id":"15","employee_name":"Tatyana Fitzpatrick","employee_salary":"385750","employee_age":"19","profile_image":""},{"id":"16","employee_name":"Michael Silva","employee_salary":"198500","employee_age":"66","profile_image":""},{"id":"17","employee_name":"Paul Byrd","employee_salary":"725000","employee_age":"64","profile_image":""},{"id":"18","employee_name":"Gloria Little","employee_salary":"237500","employee_age":"59","profile_image":""},{"id":"19","employee_name":"Bradley Greer","employee_salary":"132000","employee_age":"41","profile_image":""},{"id":"20","employee_name":"Dai Rios","employee_salary":"217500","employee_age":"35","profile_image":""},{"id":"21","employee_name":"Jenette Caldwell","employee_salary":"345000","employee_age":"30","profile_image":""},{"id":"22","employee_name":"Yuri Berry","employee_salary":"675000","employee_age":"40","profile_image":""},{"id":"23","employee_name":"Caesar Vance","employee_salary":"106450","employee_age":"21","profile_image":""},{"id":"24","employee_name":"Doris Wilder","employee_salary":"85600","employee_age":"23","profile_image":""}]}
+2020-06-21 18:43:40,874 [main] INFO RestAPI test - Checking response time
+2020-06-21 18:43:40,875 [main] INFO RestAPI test - response time is1823
+2020-06-21 18:43:40,877 [main] INFO RestAPI test - ***********  Checking Server Type **********
+2020-06-21 18:43:40,877 [main] INFO RestAPI test - Server Type is =>nginx/1.16.0
+2020-06-21 18:43:40,880 [main] INFO RestAPI test - ***********  Checking Status Line **********
+2020-06-21 18:43:40,881 [main] INFO RestAPI test - Status Line is ==>HTTP/1.1 200 OK
+2020-06-21 18:43:40,885 [main] INFO RestAPI test - Checking status code
+2020-06-21 18:43:40,885 [main] INFO RestAPI test - response code is200
+2020-06-21 18:43:40,887 [main] INFO RestAPI test - *********  Finished TC001_Get_All_Employees **********
+2020-06-21 18:43:40,893 [main] INFO RestAPI test - *********Started TC005_Delete_Employee_Record **********
+2020-06-21 18:43:45,949 [main] INFO RestAPI test - *********  Finished TC005_Delete_Employee_Record **********
+2020-06-21 18:43:45,957 [main] INFO RestAPI test - *********Started TC001_Get_Single_Employee details **********
+2020-06-21 18:43:49,841 [main] INFO RestAPI test - ***********  Checking Content Lenght**********
+2020-06-21 18:43:49,842 [main] INFO RestAPI test - Content Length is==>75
+2020-06-21 18:43:49,844 [main] WARN RestAPI test - Content Length is less than 100
+2020-06-21 18:43:49,851 [main] INFO RestAPI test - ***********  Checking Content Type **********
+2020-06-21 18:43:49,852 [main] INFO RestAPI test - Content type is ==>application/json;charset=utf-8
+2020-06-21 18:43:49,857 [main] INFO RestAPI test - ***********  Checking Cookies **********
+2020-06-21 18:43:49,865 [main] INFO RestAPI test - ***********  Checking Content Encoding**********
+2020-06-21 18:43:49,866 [main] INFO RestAPI test - Content Encoding is==>null
+2020-06-21 18:43:49,870 [main] INFO RestAPI test - Checking repsonse body
+2020-06-21 18:43:49,871 [main] INFO RestAPI test - response body is{"status":"failed","message":"Oops! someting issue found to fetch record."}
+2020-06-21 18:43:49,874 [main] INFO RestAPI test - Checking response time
+2020-06-21 18:43:49,874 [main] INFO RestAPI test - response time is871
+2020-06-21 18:43:49,877 [main] INFO RestAPI test - ***********  Checking Server Type **********
+2020-06-21 18:43:49,878 [main] INFO RestAPI test - Server Type is =>nginx/1.16.0
+2020-06-21 18:43:49,881 [main] INFO RestAPI test - ***********  Checking Status Line **********
+2020-06-21 18:43:49,881 [main] INFO RestAPI test - Status Line is ==>HTTP/1.1 400 Bad Request
+2020-06-21 18:43:49,885 [main] INFO RestAPI test - Checking status code
+2020-06-21 18:43:49,886 [main] INFO RestAPI test - response code is400
+2020-06-21 18:43:49,887 [main] INFO RestAPI test - *********  Finished TC001_Getsingle_Employee **********
+2020-06-21 18:43:49,893 [main] INFO RestAPI test - *********Started TC00Create_Employees **********
+2020-06-21 18:43:57,918 [main] INFO RestAPI test - ***********  Checking Content Lenght**********
+2020-06-21 18:43:57,920 [main] INFO RestAPI test - Content Length is==>85
+2020-06-21 18:43:57,920 [main] WARN RestAPI test - Content Length is less than 100
+2020-06-21 18:43:57,928 [main] INFO RestAPI test - ***********  Checking Content Type **********
+2020-06-21 18:43:57,930 [main] INFO RestAPI test - Content type is ==>application/json;charset=utf-8
+2020-06-21 18:43:57,933 [main] INFO RestAPI test - ***********  Checking Cookies **********
+2020-06-21 18:43:57,938 [main] INFO RestAPI test - ***********  Checking Content Encoding**********
+2020-06-21 18:43:57,939 [main] INFO RestAPI test - Content Encoding is==>null
+2020-06-21 18:43:57,947 [main] INFO RestAPI test - Checking repsonse body
+2020-06-21 18:43:57,949 [main] INFO RestAPI test - response body is{"status":"success","data":{"name":"DeepthiZcG","salary":"74536","age":"63","id":77}}
+2020-06-21 18:43:57,953 [main] INFO RestAPI test - Checking response time
+2020-06-21 18:43:57,954 [main] INFO RestAPI test - response time is999
+2020-06-21 18:43:57,959 [main] INFO RestAPI test - ***********  Checking Server Type **********
+2020-06-21 18:43:57,961 [main] INFO RestAPI test - Server Type is =>nginx/1.16.0
+2020-06-21 18:43:57,967 [main] INFO RestAPI test - ***********  Checking Status Line **********
+2020-06-21 18:43:57,968 [main] INFO RestAPI test - Status Line is ==>HTTP/1.1 200 OK
+2020-06-21 18:43:57,972 [main] INFO RestAPI test - Checking status code
+2020-06-21 18:43:57,974 [main] INFO RestAPI test - response code is200
+2020-06-21 18:43:57,980 [main] INFO RestAPI test - *********  Finished TC001_Get_All_Employees **********
+2020-06-21 18:43:57,999 [main] INFO RestAPI test - *********Started update employees **********
+2020-06-21 18:44:05,977 [main] INFO RestAPI test - ***********  Checking Content Lenght**********
+2020-06-21 18:44:05,979 [main] INFO RestAPI test - Content Length is==>32
+2020-06-21 18:44:05,980 [main] WARN RestAPI test - Content Length is less than 100
+2020-06-21 18:44:05,985 [main] INFO RestAPI test - ***********  Checking Content Type **********
+2020-06-21 18:44:05,986 [main] INFO RestAPI test - Content type is ==>application/json;charset=utf-8
+2020-06-21 18:44:05,992 [main] INFO RestAPI test - ***********  Checking Cookies **********
+2020-06-21 18:44:05,995 [main] INFO RestAPI test - ***********  Checking Content Encoding**********
+2020-06-21 18:44:05,996 [main] INFO RestAPI test - Content Encoding is==>null
+2020-06-21 18:44:05,998 [main] INFO RestAPI test - Checking repsonse body
+2020-06-21 18:44:05,999 [main] INFO RestAPI test - response body is{"status":"success","data":null}
+2020-06-21 18:44:06,002 [main] INFO RestAPI test - Checking response time
+2020-06-21 18:44:06,002 [main] INFO RestAPI test - response time is952
+2020-06-21 18:44:06,003 [main] INFO RestAPI test - ***********  Checking Server Type **********
+2020-06-21 18:44:06,004 [main] INFO RestAPI test - Server Type is =>nginx/1.16.0
+2020-06-21 18:44:06,006 [main] INFO RestAPI test - ***********  Checking Status Line **********
+2020-06-21 18:44:06,006 [main] INFO RestAPI test - Status Line is ==>HTTP/1.1 200 OK
+2020-06-21 18:44:06,008 [main] INFO RestAPI test - Checking status code
+2020-06-21 18:44:06,009 [main] INFO RestAPI test - response code is200
+2020-06-21 18:44:06,010 [main] INFO RestAPI test - *********  Finished TC001_Update_Employees **********
+2020-06-21 18:47:19,165 [main] INFO RestAPI test - *********Started TC001_Get_All_Employees **********
+2020-06-21 18:47:24,274 [main] INFO RestAPI test - ***********  Checking Content Lenght**********
+2020-06-21 18:47:24,274 [main] INFO RestAPI test - Content Length is==>595
+2020-06-21 18:52:53,154 [main] INFO RestAPI test - *********Started TC001_Get_All_Employees **********
+2020-06-21 18:52:58,630 [main] INFO RestAPI test - ***********  Checking Content Lenght**********
+2020-06-21 18:52:58,631 [main] INFO RestAPI test - Content Length is==>595
+2020-06-21 18:53:23,297 [main] INFO RestAPI test - *********Started TC001_Get_All_Employees **********
+2020-06-21 18:53:28,178 [main] INFO RestAPI test - ***********  Checking Content Lenght**********
+2020-06-21 18:53:28,179 [main] INFO RestAPI test - Content Length is==>595
+2020-06-21 18:57:48,266 [main] INFO RestAPI test - *********Started TC001_Get_All_Employees **********
+2020-06-21 18:57:53,159 [main] INFO RestAPI test - ***********  Checking Content Lenght**********
+2020-06-21 18:57:53,159 [main] INFO RestAPI test - Content Length is==>595
+2020-06-21 19:00:42,152 [main] INFO RestAPI test - *********Started TC001_Get_All_Employees **********
+2020-06-21 19:00:48,492 [main] INFO RestAPI test - ***********  Checking Content Lenght**********
+2020-06-21 19:00:48,492 [main] INFO RestAPI test - Content Length is==>595
+2020-06-21 19:01:40,630 [main] INFO RestAPI test - *********Started TC001_Get_All_Employees **********
+2020-06-21 19:01:45,607 [main] INFO RestAPI test - ***********  Checking Content Lenght**********
+2020-06-21 19:01:45,608 [main] INFO RestAPI test - Content Length is==>595
+2020-06-21 19:03:37,218 [main] INFO RestAPI test - *********Started TC001_Get_All_Employees **********
+2020-06-21 19:03:42,089 [main] INFO RestAPI test - ***********  Checking Content Lenght**********
+2020-06-21 19:03:42,089 [main] INFO RestAPI test - Content Length is==>595
+2020-06-21 19:06:21,094 [main] INFO RestAPI test - *********Started TC001_Get_All_Employees **********
+2020-06-21 19:06:27,696 [main] INFO RestAPI test - ***********  Checking Content Lenght**********
+2020-06-21 19:06:27,697 [main] INFO RestAPI test - Content Length is==>595
+2020-06-21 19:13:49,804 [main] INFO RestAPI test - *********Started TC001_Get_All_Employees **********
+2020-06-21 19:13:54,994 [main] INFO RestAPI test - ***********  Checking Content Lenght**********
+2020-06-21 19:13:54,995 [main] INFO RestAPI test - Content Length is==>595
+2020-06-21 19:15:51,845 [main] INFO RestAPI test - *********Started TC001_Get_All_Employees **********
+2020-06-21 19:15:56,897 [main] INFO RestAPI test - ***********  Checking Content Lenght**********
+2020-06-21 19:15:56,897 [main] INFO RestAPI test - Content Length is==>595
+2020-06-21 19:16:20,208 [main] INFO RestAPI test - *********Started TC001_Get_All_Employees **********
+2020-06-21 19:16:25,117 [main] INFO RestAPI test - ***********  Checking Content Lenght**********
+2020-06-21 19:16:25,118 [main] INFO RestAPI test - Content Length is==>595
+2020-06-21 19:26:24,656 [main] INFO RestAPI test - *********Started TC001_Get_All_Employees **********
+2020-06-21 19:26:29,897 [main] INFO RestAPI test - ***********  Checking Content Lenght**********
+2020-06-21 19:26:29,898 [main] INFO RestAPI test - Content Length is==>595
+2020-06-21 19:31:14,845 [main] INFO RestAPI test - *********Started TC001_Get_All_Employees **********
+2020-06-21 19:31:20,164 [main] INFO RestAPI test - ***********  Checking Content Lenght**********
+2020-06-21 19:31:20,165 [main] INFO RestAPI test - Content Length is==>595
+2020-06-21 19:42:16,927 [main] INFO RestAPI test - *********Started TC001_Get_All_Employees **********
+2020-06-21 20:09:37,765 [main] INFO RestAPI test - *********Started TC001_Get_All_Employees **********
+2020-06-21 20:09:44,726 [main] INFO RestAPI test - ***********  Checking Content Lenght**********
+2020-06-21 20:09:44,727 [main] INFO RestAPI test - Content Length is==>595
+2020-06-21 20:09:44,736 [main] INFO RestAPI test - ***********  Checking Content Type **********
+2020-06-21 20:09:44,736 [main] INFO RestAPI test - Content type is ==>application/json;charset=utf-8
+2020-06-21 20:09:44,743 [main] INFO RestAPI test - ***********  Checking Cookies **********
+2020-06-21 20:09:44,750 [main] INFO RestAPI test - ***********  Checking Content Encoding**********
+2020-06-21 20:09:44,752 [main] INFO RestAPI test - Content Encoding is==>gzip
+2020-06-21 20:09:44,758 [main] INFO RestAPI test - Checking repsonse body
+2020-06-21 20:09:44,820 [main] INFO RestAPI test - response body is{"status":"success","data":[{"id":"1","employee_name":"Tiger Nixon","employee_salary":"320800","employee_age":"61","profile_image":""},{"id":"2","employee_name":"Garrett Winters","employee_salary":"170750","employee_age":"63","profile_image":""},{"id":"3","employee_name":"Ashton Cox","employee_salary":"86000","employee_age":"66","profile_image":""},{"id":"4","employee_name":"Cedric Kelly","employee_salary":"433060","employee_age":"22","profile_image":""},{"id":"5","employee_name":"Airi Satou","employee_salary":"162700","employee_age":"33","profile_image":""},{"id":"6","employee_name":"Brielle Williamson","employee_salary":"372000","employee_age":"61","profile_image":""},{"id":"7","employee_name":"Herrod Chandler","employee_salary":"137500","employee_age":"59","profile_image":""},{"id":"8","employee_name":"Rhona Davidson","employee_salary":"327900","employee_age":"55","profile_image":""},{"id":"9","employee_name":"Colleen Hurst","employee_salary":"205500","employee_age":"39","profile_image":""},{"id":"10","employee_name":"Sonya Frost","employee_salary":"103600","employee_age":"23","profile_image":""},{"id":"11","employee_name":"Jena Gaines","employee_salary":"90560","employee_age":"30","profile_image":""},{"id":"12","employee_name":"Quinn Flynn","employee_salary":"342000","employee_age":"22","profile_image":""},{"id":"13","employee_name":"Charde Marshall","employee_salary":"470600","employee_age":"36","profile_image":""},{"id":"14","employee_name":"Haley Kennedy","employee_salary":"313500","employee_age":"43","profile_image":""},{"id":"15","employee_name":"Tatyana Fitzpatrick","employee_salary":"385750","employee_age":"19","profile_image":""},{"id":"16","employee_name":"Michael Silva","employee_salary":"198500","employee_age":"66","profile_image":""},{"id":"17","employee_name":"Paul Byrd","employee_salary":"725000","employee_age":"64","profile_image":""},{"id":"18","employee_name":"Gloria Little","employee_salary":"237500","employee_age":"59","profile_image":""},{"id":"19","employee_name":"Bradley Greer","employee_salary":"132000","employee_age":"41","profile_image":""},{"id":"20","employee_name":"Dai Rios","employee_salary":"217500","employee_age":"35","profile_image":""},{"id":"21","employee_name":"Jenette Caldwell","employee_salary":"345000","employee_age":"30","profile_image":""},{"id":"22","employee_name":"Yuri Berry","employee_salary":"675000","employee_age":"40","profile_image":""},{"id":"23","employee_name":"Caesar Vance","employee_salary":"106450","employee_age":"21","profile_image":""},{"id":"24","employee_name":"Doris Wilder","employee_salary":"85600","employee_age":"23","profile_image":""}]}
+2020-06-21 20:09:44,827 [main] INFO RestAPI test - Checking response time
+2020-06-21 20:09:44,829 [main] INFO RestAPI test - response time is1969
+2020-06-21 20:09:44,836 [main] INFO RestAPI test - ***********  Checking Server Type **********
+2020-06-21 20:09:44,837 [main] INFO RestAPI test - Server Type is =>nginx/1.16.0
+2020-06-21 20:09:44,842 [main] INFO RestAPI test - ***********  Checking Status Line **********
+2020-06-21 20:09:44,843 [main] INFO RestAPI test - Status Line is ==>HTTP/1.1 200 OK
+2020-06-21 20:09:44,852 [main] INFO RestAPI test - Checking status code
+2020-06-21 20:09:44,853 [main] INFO RestAPI test - response code is200
+2020-06-21 20:09:44,858 [main] INFO RestAPI test - *********  Finished TC001_Get_All_Employees **********
+2020-06-21 20:09:44,872 [main] INFO RestAPI test - *********Started TC005_Delete_Employee_Record **********
+2020-06-21 20:09:49,937 [main] INFO RestAPI test - *********  Finished TC005_Delete_Employee_Record **********
+2020-06-21 20:09:49,950 [main] INFO RestAPI test - *********Started TC001_Get_Single_Employee details **********
+2020-06-21 20:09:54,327 [main] INFO RestAPI test - ***********  Checking Content Lenght**********
+2020-06-21 20:09:54,329 [main] INFO RestAPI test - Content Length is==>75
+2020-06-21 20:09:54,330 [main] WARN RestAPI test - Content Length is less than 100
+2020-06-21 20:09:54,337 [main] INFO RestAPI test - ***********  Checking Content Type **********
+2020-06-21 20:09:54,338 [main] INFO RestAPI test - Content type is ==>application/json;charset=utf-8
+2020-06-21 20:09:54,346 [main] INFO RestAPI test - ***********  Checking Cookies **********
+2020-06-21 20:09:54,355 [main] INFO RestAPI test - ***********  Checking Content Encoding**********
+2020-06-21 20:09:54,357 [main] INFO RestAPI test - Content Encoding is==>null
+2020-06-21 20:09:54,365 [main] INFO RestAPI test - Checking repsonse body
+2020-06-21 20:09:54,367 [main] INFO RestAPI test - response body is{"status":"failed","message":"Oops! someting issue found to fetch record."}
+2020-06-21 20:09:54,373 [main] INFO RestAPI test - Checking response time
+2020-06-21 20:09:54,374 [main] INFO RestAPI test - response time is1353
+2020-06-21 20:09:54,380 [main] INFO RestAPI test - ***********  Checking Server Type **********
+2020-06-21 20:09:54,380 [main] INFO RestAPI test - Server Type is =>nginx/1.16.0
+2020-06-21 20:09:54,386 [main] INFO RestAPI test - ***********  Checking Status Line **********
+2020-06-21 20:09:54,387 [main] INFO RestAPI test - Status Line is ==>HTTP/1.1 400 Bad Request
+2020-06-21 20:09:54,393 [main] INFO RestAPI test - Checking status code
+2020-06-21 20:09:54,395 [main] INFO RestAPI test - response code is400
+2020-06-21 20:09:54,401 [main] INFO RestAPI test - *********  Finished TC001_Getsingle_Employee **********
+2020-06-21 20:09:54,415 [main] INFO RestAPI test - *********Started TC00Create_Employees **********
+2020-06-21 20:10:02,632 [main] INFO RestAPI test - ***********  Checking Content Lenght**********
+2020-06-21 20:10:02,633 [main] INFO RestAPI test - Content Length is==>85
+2020-06-21 20:10:02,634 [main] WARN RestAPI test - Content Length is less than 100
+2020-06-21 20:10:02,639 [main] INFO RestAPI test - ***********  Checking Content Type **********
+2020-06-21 20:10:02,640 [main] INFO RestAPI test - Content type is ==>application/json;charset=utf-8
+2020-06-21 20:10:02,644 [main] INFO RestAPI test - ***********  Checking Cookies **********
+2020-06-21 20:10:02,648 [main] INFO RestAPI test - ***********  Checking Content Encoding**********
+2020-06-21 20:10:02,649 [main] INFO RestAPI test - Content Encoding is==>null
+2020-06-21 20:10:02,654 [main] INFO RestAPI test - Checking repsonse body
+2020-06-21 20:10:02,657 [main] INFO RestAPI test - response body is{"status":"success","data":{"name":"DeepthijEm","salary":"49414","age":"96","id":86}}
+2020-06-21 20:10:02,662 [main] INFO RestAPI test - Checking response time
+2020-06-21 20:10:02,663 [main] INFO RestAPI test - response time is1180
+2020-06-21 20:10:02,668 [main] INFO RestAPI test - ***********  Checking Server Type **********
+2020-06-21 20:10:02,669 [main] INFO RestAPI test - Server Type is =>nginx/1.16.0
+2020-06-21 20:10:02,675 [main] INFO RestAPI test - ***********  Checking Status Line **********
+2020-06-21 20:10:02,675 [main] INFO RestAPI test - Status Line is ==>HTTP/1.1 200 OK
+2020-06-21 20:10:02,681 [main] INFO RestAPI test - Checking status code
+2020-06-21 20:10:02,682 [main] INFO RestAPI test - response code is200
+2020-06-21 20:10:02,688 [main] INFO RestAPI test - *********  Finished TC001_Get_All_Employees **********
+2020-06-21 20:10:02,708 [main] INFO RestAPI test - *********Started update employees **********
+2020-06-21 20:10:11,025 [main] INFO RestAPI test - ***********  Checking Content Lenght**********
+2020-06-21 20:10:11,027 [main] INFO RestAPI test - Content Length is==>32
+2020-06-21 20:10:11,027 [main] WARN RestAPI test - Content Length is less than 100
+2020-06-21 20:10:11,032 [main] INFO RestAPI test - ***********  Checking Content Type **********
+2020-06-21 20:10:11,034 [main] INFO RestAPI test - Content type is ==>application/json;charset=utf-8
+2020-06-21 20:10:11,039 [main] INFO RestAPI test - ***********  Checking Cookies **********
+2020-06-21 20:10:11,044 [main] INFO RestAPI test - ***********  Checking Content Encoding**********
+2020-06-21 20:10:11,045 [main] INFO RestAPI test - Content Encoding is==>null
+2020-06-21 20:10:11,054 [main] INFO RestAPI test - Checking repsonse body
+2020-06-21 20:10:11,057 [main] INFO RestAPI test - response body is{"status":"success","data":null}
+2020-06-21 20:10:11,063 [main] INFO RestAPI test - Checking response time
+2020-06-21 20:10:11,065 [main] INFO RestAPI test - response time is1283
+2020-06-21 20:10:11,069 [main] INFO RestAPI test - ***********  Checking Server Type **********
+2020-06-21 20:10:11,072 [main] INFO RestAPI test - Server Type is =>nginx/1.16.0
+2020-06-21 20:10:11,076 [main] INFO RestAPI test - ***********  Checking Status Line **********
+2020-06-21 20:10:11,077 [main] INFO RestAPI test - Status Line is ==>HTTP/1.1 200 OK
+2020-06-21 20:10:11,081 [main] INFO RestAPI test - Checking status code
+2020-06-21 20:10:11,082 [main] INFO RestAPI test - response code is200
+2020-06-21 20:10:11,084 [main] INFO RestAPI test - *********  Finished TC001_Update_Employees **********
+2020-06-21 20:26:46,769 [main] INFO RestAPI test - *********Started TC001_Get_All_Employees **********
+2020-06-21 20:26:53,708 [main] INFO RestAPI test - ***********  Checking Content Lenght**********
+2020-06-21 20:26:53,709 [main] INFO RestAPI test - Content Length is==>595
+2020-06-21 20:26:53,713 [main] INFO RestAPI test - ***********  Checking Content Type **********
+2020-06-21 20:26:53,714 [main] INFO RestAPI test - Content type is ==>application/json;charset=utf-8
+2020-06-21 20:26:53,715 [main] INFO RestAPI test - ***********  Checking Cookies **********
+2020-06-21 20:26:53,716 [main] INFO RestAPI test - ***********  Checking Content Encoding**********
+2020-06-21 20:26:53,716 [main] INFO RestAPI test - Content Encoding is==>gzip
+2020-06-21 20:26:53,717 [main] INFO RestAPI test - Checking repsonse body
+2020-06-21 20:26:53,739 [main] INFO RestAPI test - response body is{"status":"success","data":[{"id":"1","employee_name":"Tiger Nixon","employee_salary":"320800","employee_age":"61","profile_image":""},{"id":"2","employee_name":"Garrett Winters","employee_salary":"170750","employee_age":"63","profile_image":""},{"id":"3","employee_name":"Ashton Cox","employee_salary":"86000","employee_age":"66","profile_image":""},{"id":"4","employee_name":"Cedric Kelly","employee_salary":"433060","employee_age":"22","profile_image":""},{"id":"5","employee_name":"Airi Satou","employee_salary":"162700","employee_age":"33","profile_image":""},{"id":"6","employee_name":"Brielle Williamson","employee_salary":"372000","employee_age":"61","profile_image":""},{"id":"7","employee_name":"Herrod Chandler","employee_salary":"137500","employee_age":"59","profile_image":""},{"id":"8","employee_name":"Rhona Davidson","employee_salary":"327900","employee_age":"55","profile_image":""},{"id":"9","employee_name":"Colleen Hurst","employee_salary":"205500","employee_age":"39","profile_image":""},{"id":"10","employee_name":"Sonya Frost","employee_salary":"103600","employee_age":"23","profile_image":""},{"id":"11","employee_name":"Jena Gaines","employee_salary":"90560","employee_age":"30","profile_image":""},{"id":"12","employee_name":"Quinn Flynn","employee_salary":"342000","employee_age":"22","profile_image":""},{"id":"13","employee_name":"Charde Marshall","employee_salary":"470600","employee_age":"36","profile_image":""},{"id":"14","employee_name":"Haley Kennedy","employee_salary":"313500","employee_age":"43","profile_image":""},{"id":"15","employee_name":"Tatyana Fitzpatrick","employee_salary":"385750","employee_age":"19","profile_image":""},{"id":"16","employee_name":"Michael Silva","employee_salary":"198500","employee_age":"66","profile_image":""},{"id":"17","employee_name":"Paul Byrd","employee_salary":"725000","employee_age":"64","profile_image":""},{"id":"18","employee_name":"Gloria Little","employee_salary":"237500","employee_age":"59","profile_image":""},{"id":"19","employee_name":"Bradley Greer","employee_salary":"132000","employee_age":"41","profile_image":""},{"id":"20","employee_name":"Dai Rios","employee_salary":"217500","employee_age":"35","profile_image":""},{"id":"21","employee_name":"Jenette Caldwell","employee_salary":"345000","employee_age":"30","profile_image":""},{"id":"22","employee_name":"Yuri Berry","employee_salary":"675000","employee_age":"40","profile_image":""},{"id":"23","employee_name":"Caesar Vance","employee_salary":"106450","employee_age":"21","profile_image":""},{"id":"24","employee_name":"Doris Wilder","employee_salary":"85600","employee_age":"23","profile_image":""}]}
+2020-06-21 20:26:53,740 [main] INFO RestAPI test - Checking response time
+2020-06-21 20:26:53,741 [main] INFO RestAPI test - response time is1912
+2020-06-21 20:26:53,741 [main] INFO RestAPI test - ***********  Checking Server Type **********
+2020-06-21 20:26:53,741 [main] INFO RestAPI test - Server Type is =>nginx/1.16.0
+2020-06-21 20:26:53,742 [main] INFO RestAPI test - ***********  Checking Status Line **********
+2020-06-21 20:26:53,742 [main] INFO RestAPI test - Status Line is ==>HTTP/1.1 200 OK
+2020-06-21 20:26:53,743 [main] INFO RestAPI test - Checking status code
+2020-06-21 20:26:53,743 [main] INFO RestAPI test - response code is200
+2020-06-21 20:26:53,744 [main] INFO RestAPI test - *********  Finished TC001_Get_All_Employees **********
+2020-06-21 20:26:53,748 [main] INFO RestAPI test - *********Started TC005_Delete_Employee_Record **********
+2020-06-21 20:26:59,848 [main] INFO RestAPI test - *********  Finished TC005_Delete_Employee_Record **********
+2020-06-21 20:26:59,852 [main] INFO RestAPI test - *********Started TC001_Get_Single_Employee details **********
+2020-06-21 20:27:03,824 [main] INFO RestAPI test - ***********  Checking Content Lenght**********
+2020-06-21 20:27:03,826 [main] INFO RestAPI test - Content Length is==>75
+2020-06-21 20:27:03,826 [main] WARN RestAPI test - Content Length is less than 100
+2020-06-21 20:27:03,828 [main] INFO RestAPI test - ***********  Checking Content Type **********
+2020-06-21 20:27:03,829 [main] INFO RestAPI test - Content type is ==>application/json;charset=utf-8
+2020-06-21 20:27:03,830 [main] INFO RestAPI test - ***********  Checking Cookies **********
+2020-06-21 20:27:03,832 [main] INFO RestAPI test - ***********  Checking Content Encoding**********
+2020-06-21 20:27:03,833 [main] INFO RestAPI test - Content Encoding is==>null
+2020-06-21 20:27:03,834 [main] INFO RestAPI test - Checking repsonse body
+2020-06-21 20:27:03,836 [main] INFO RestAPI test - response body is{"status":"failed","message":"Oops! someting issue found to fetch record."}
+2020-06-21 20:27:03,838 [main] INFO RestAPI test - Checking response time
+2020-06-21 20:27:03,838 [main] INFO RestAPI test - response time is967
+2020-06-21 20:27:03,840 [main] INFO RestAPI test - ***********  Checking Server Type **********
+2020-06-21 20:27:03,840 [main] INFO RestAPI test - Server Type is =>nginx/1.16.0
+2020-06-21 20:27:03,841 [main] INFO RestAPI test - ***********  Checking Status Line **********
+2020-06-21 20:27:03,842 [main] INFO RestAPI test - Status Line is ==>HTTP/1.1 400 Bad Request
+2020-06-21 20:27:03,843 [main] INFO RestAPI test - Checking status code
+2020-06-21 20:27:03,843 [main] INFO RestAPI test - response code is400
+2020-06-21 20:27:03,845 [main] INFO RestAPI test - *********  Finished TC001_Getsingle_Employee **********
+2020-06-21 20:27:03,851 [main] INFO RestAPI test - *********Started TC00Create_Employees **********
+2020-06-21 20:27:11,780 [main] INFO RestAPI test - ***********  Checking Content Lenght**********
+2020-06-21 20:27:11,780 [main] INFO RestAPI test - Content Length is==>85
+2020-06-21 20:27:11,781 [main] WARN RestAPI test - Content Length is less than 100
+2020-06-21 20:27:11,785 [main] INFO RestAPI test - ***********  Checking Content Type **********
+2020-06-21 20:27:11,785 [main] INFO RestAPI test - Content type is ==>application/json;charset=utf-8
+2020-06-21 20:27:11,786 [main] INFO RestAPI test - ***********  Checking Cookies **********
+2020-06-21 20:27:11,786 [main] INFO RestAPI test - ***********  Checking Content Encoding**********
+2020-06-21 20:27:11,786 [main] INFO RestAPI test - Content Encoding is==>null
+2020-06-21 20:27:11,787 [main] INFO RestAPI test - Checking repsonse body
+2020-06-21 20:27:11,788 [main] INFO RestAPI test - response body is{"status":"success","data":{"name":"DeepthigoV","salary":"03782","age":"89","id":79}}
+2020-06-21 20:27:11,789 [main] INFO RestAPI test - Checking response time
+2020-06-21 20:27:11,789 [main] INFO RestAPI test - response time is918
+2020-06-21 20:27:11,790 [main] INFO RestAPI test - ***********  Checking Server Type **********
+2020-06-21 20:27:11,790 [main] INFO RestAPI test - Server Type is =>nginx/1.16.0
+2020-06-21 20:27:11,790 [main] INFO RestAPI test - ***********  Checking Status Line **********
+2020-06-21 20:27:11,790 [main] INFO RestAPI test - Status Line is ==>HTTP/1.1 200 OK
+2020-06-21 20:27:11,791 [main] INFO RestAPI test - Checking status code
+2020-06-21 20:27:11,791 [main] INFO RestAPI test - response code is200
+2020-06-21 20:27:11,791 [main] INFO RestAPI test - *********  Finished TC001_Get_All_Employees **********
+2020-06-21 20:27:11,796 [main] INFO RestAPI test - *********Started update employees **********
+2020-06-21 20:27:19,706 [main] INFO RestAPI test - ***********  Checking Content Lenght**********
+2020-06-21 20:27:19,706 [main] INFO RestAPI test - Content Length is==>32
+2020-06-21 20:27:19,707 [main] WARN RestAPI test - Content Length is less than 100
+2020-06-21 20:27:19,707 [main] INFO RestAPI test - ***********  Checking Content Type **********
+2020-06-21 20:27:19,708 [main] INFO RestAPI test - Content type is ==>application/json;charset=utf-8
+2020-06-21 20:27:19,708 [main] INFO RestAPI test - ***********  Checking Cookies **********
+2020-06-21 20:27:19,709 [main] INFO RestAPI test - ***********  Checking Content Encoding**********
+2020-06-21 20:27:19,709 [main] INFO RestAPI test - Content Encoding is==>null
+2020-06-21 20:27:19,710 [main] INFO RestAPI test - Checking repsonse body
+2020-06-21 20:27:19,710 [main] INFO RestAPI test - response body is{"status":"success","data":null}
+2020-06-21 20:27:19,711 [main] INFO RestAPI test - Checking response time
+2020-06-21 20:27:19,711 [main] INFO RestAPI test - response time is903
+2020-06-21 20:27:19,712 [main] INFO RestAPI test - ***********  Checking Server Type **********
+2020-06-21 20:27:19,712 [main] INFO RestAPI test - Server Type is =>nginx/1.16.0
+2020-06-21 20:27:19,712 [main] INFO RestAPI test - ***********  Checking Status Line **********
+2020-06-21 20:27:19,712 [main] INFO RestAPI test - Status Line is ==>HTTP/1.1 200 OK
+2020-06-21 20:27:19,713 [main] INFO RestAPI test - Checking status code
+2020-06-21 20:27:19,713 [main] INFO RestAPI test - response code is200
+2020-06-21 20:27:19,714 [main] INFO RestAPI test - *********  Finished TC001_Update_Employees **********
+2020-06-21 20:33:50,465 [main] INFO RestAPI test - *********Started TC001_Get_All_Employees **********
+2020-06-21 20:33:55,619 [main] INFO RestAPI test - ***********  Checking Content Lenght**********
+2020-06-21 20:33:55,620 [main] INFO RestAPI test - Content Length is==>595
+2020-06-21 20:33:55,625 [main] INFO RestAPI test - ***********  Checking Content Type **********
+2020-06-21 20:33:55,626 [main] INFO RestAPI test - Content type is ==>application/json;charset=utf-8
+2020-06-21 20:33:55,627 [main] INFO RestAPI test - ***********  Checking Cookies **********
+2020-06-21 20:33:55,627 [main] INFO RestAPI test - ***********  Checking Content Encoding**********
+2020-06-21 20:33:55,628 [main] INFO RestAPI test - Content Encoding is==>gzip
+2020-06-21 20:33:55,628 [main] INFO RestAPI test - Checking repsonse body
+2020-06-21 20:33:55,651 [main] INFO RestAPI test - response body is{"status":"success","data":[{"id":"1","employee_name":"Tiger Nixon","employee_salary":"320800","employee_age":"61","profile_image":""},{"id":"2","employee_name":"Garrett Winters","employee_salary":"170750","employee_age":"63","profile_image":""},{"id":"3","employee_name":"Ashton Cox","employee_salary":"86000","employee_age":"66","profile_image":""},{"id":"4","employee_name":"Cedric Kelly","employee_salary":"433060","employee_age":"22","profile_image":""},{"id":"5","employee_name":"Airi Satou","employee_salary":"162700","employee_age":"33","profile_image":""},{"id":"6","employee_name":"Brielle Williamson","employee_salary":"372000","employee_age":"61","profile_image":""},{"id":"7","employee_name":"Herrod Chandler","employee_salary":"137500","employee_age":"59","profile_image":""},{"id":"8","employee_name":"Rhona Davidson","employee_salary":"327900","employee_age":"55","profile_image":""},{"id":"9","employee_name":"Colleen Hurst","employee_salary":"205500","employee_age":"39","profile_image":""},{"id":"10","employee_name":"Sonya Frost","employee_salary":"103600","employee_age":"23","profile_image":""},{"id":"11","employee_name":"Jena Gaines","employee_salary":"90560","employee_age":"30","profile_image":""},{"id":"12","employee_name":"Quinn Flynn","employee_salary":"342000","employee_age":"22","profile_image":""},{"id":"13","employee_name":"Charde Marshall","employee_salary":"470600","employee_age":"36","profile_image":""},{"id":"14","employee_name":"Haley Kennedy","employee_salary":"313500","employee_age":"43","profile_image":""},{"id":"15","employee_name":"Tatyana Fitzpatrick","employee_salary":"385750","employee_age":"19","profile_image":""},{"id":"16","employee_name":"Michael Silva","employee_salary":"198500","employee_age":"66","profile_image":""},{"id":"17","employee_name":"Paul Byrd","employee_salary":"725000","employee_age":"64","profile_image":""},{"id":"18","employee_name":"Gloria Little","employee_salary":"237500","employee_age":"59","profile_image":""},{"id":"19","employee_name":"Bradley Greer","employee_salary":"132000","employee_age":"41","profile_image":""},{"id":"20","employee_name":"Dai Rios","employee_salary":"217500","employee_age":"35","profile_image":""},{"id":"21","employee_name":"Jenette Caldwell","employee_salary":"345000","employee_age":"30","profile_image":""},{"id":"22","employee_name":"Yuri Berry","employee_salary":"675000","employee_age":"40","profile_image":""},{"id":"23","employee_name":"Caesar Vance","employee_salary":"106450","employee_age":"21","profile_image":""},{"id":"24","employee_name":"Doris Wilder","employee_salary":"85600","employee_age":"23","profile_image":""}]}
+2020-06-21 20:33:55,652 [main] INFO RestAPI test - Checking response time
+2020-06-21 20:33:55,653 [main] INFO RestAPI test - response time is1365
+2020-06-21 20:33:55,654 [main] INFO RestAPI test - ***********  Checking Server Type **********
+2020-06-21 20:33:55,654 [main] INFO RestAPI test - Server Type is =>nginx/1.16.0
+2020-06-21 20:33:55,655 [main] INFO RestAPI test - ***********  Checking Status Line **********
+2020-06-21 20:33:55,655 [main] INFO RestAPI test - Status Line is ==>HTTP/1.1 200 OK
+2020-06-21 20:33:55,656 [main] INFO RestAPI test - Checking status code
+2020-06-21 20:33:55,657 [main] INFO RestAPI test - response code is200
+2020-06-21 20:33:55,657 [main] INFO RestAPI test - *********  Finished TC001_Get_All_Employees **********
+2020-06-21 20:33:55,664 [main] INFO RestAPI test - *********Started TC005_Delete_Employee_Record **********
+2020-06-21 20:34:00,084 [main] INFO RestAPI test - *********  Finished TC005_Delete_Employee_Record **********
+2020-06-21 20:34:00,090 [main] INFO RestAPI test - *********Started TC001_Get_Single_Employee details **********
+2020-06-21 20:34:04,019 [main] INFO RestAPI test - ***********  Checking Content Lenght**********
+2020-06-21 20:34:04,019 [main] INFO RestAPI test - Content Length is==>75
+2020-06-21 20:34:04,020 [main] WARN RestAPI test - Content Length is less than 100
+2020-06-21 20:34:04,021 [main] INFO RestAPI test - ***********  Checking Content Type **********
+2020-06-21 20:34:04,021 [main] INFO RestAPI test - Content type is ==>application/json;charset=utf-8
+2020-06-21 20:34:04,022 [main] INFO RestAPI test - ***********  Checking Cookies **********
+2020-06-21 20:34:04,024 [main] INFO RestAPI test - ***********  Checking Content Encoding**********
+2020-06-21 20:34:04,025 [main] INFO RestAPI test - Content Encoding is==>null
+2020-06-21 20:34:04,026 [main] INFO RestAPI test - Checking repsonse body
+2020-06-21 20:34:04,028 [main] INFO RestAPI test - response body is{"status":"failed","message":"Oops! someting issue found to fetch record."}
+2020-06-21 20:34:04,031 [main] INFO RestAPI test - Checking response time
+2020-06-21 20:34:04,032 [main] INFO RestAPI test - response time is925
+2020-06-21 20:34:04,033 [main] INFO RestAPI test - ***********  Checking Server Type **********
+2020-06-21 20:34:04,033 [main] INFO RestAPI test - Server Type is =>nginx/1.16.0
+2020-06-21 20:34:04,034 [main] INFO RestAPI test - ***********  Checking Status Line **********
+2020-06-21 20:34:04,035 [main] INFO RestAPI test - Status Line is ==>HTTP/1.1 400 Bad Request
+2020-06-21 20:34:04,037 [main] INFO RestAPI test - Checking status code
+2020-06-21 20:34:04,037 [main] INFO RestAPI test - response code is400
+2020-06-21 20:34:04,038 [main] INFO RestAPI test - *********  Finished TC001_Getsingle_Employee **********
+2020-06-21 20:34:04,046 [main] INFO RestAPI test - *********Started TC00Create_Employees **********
+2020-06-21 20:34:12,029 [main] INFO RestAPI test - ***********  Checking Content Lenght**********
+2020-06-21 20:34:12,030 [main] INFO RestAPI test - Content Length is==>85
+2020-06-21 20:34:12,031 [main] WARN RestAPI test - Content Length is less than 100
+2020-06-21 20:34:12,043 [main] INFO RestAPI test - ***********  Checking Content Type **********
+2020-06-21 20:34:12,044 [main] INFO RestAPI test - Content type is ==>application/json;charset=utf-8
+2020-06-21 20:34:12,046 [main] INFO RestAPI test - ***********  Checking Cookies **********
+2020-06-21 20:34:12,047 [main] INFO RestAPI test - ***********  Checking Content Encoding**********
+2020-06-21 20:34:12,048 [main] INFO RestAPI test - Content Encoding is==>null
+2020-06-21 20:34:12,049 [main] INFO RestAPI test - Checking repsonse body
+2020-06-21 20:34:12,050 [main] INFO RestAPI test - response body is{"status":"success","data":{"name":"DeepthiWYb","salary":"22750","age":"01","id":54}}
+2020-06-21 20:34:12,051 [main] INFO RestAPI test - Checking response time
+2020-06-21 20:34:12,051 [main] INFO RestAPI test - response time is969
+2020-06-21 20:34:12,052 [main] INFO RestAPI test - ***********  Checking Server Type **********
+2020-06-21 20:34:12,053 [main] INFO RestAPI test - Server Type is =>nginx/1.16.0
+2020-06-21 20:34:12,053 [main] INFO RestAPI test - ***********  Checking Status Line **********
+2020-06-21 20:34:12,054 [main] INFO RestAPI test - Status Line is ==>HTTP/1.1 200 OK
+2020-06-21 20:34:12,055 [main] INFO RestAPI test - Checking status code
+2020-06-21 20:34:12,055 [main] INFO RestAPI test - response code is200
+2020-06-21 20:34:12,056 [main] INFO RestAPI test - *********  Finished TC001_Get_All_Employees **********
+2020-06-21 20:34:12,063 [main] INFO RestAPI test - *********Started update employees **********
+2020-06-21 20:34:20,000 [main] INFO RestAPI test - ***********  Checking Content Lenght**********
+2020-06-21 20:34:20,000 [main] INFO RestAPI test - Content Length is==>32
+2020-06-21 20:34:20,001 [main] WARN RestAPI test - Content Length is less than 100
+2020-06-21 20:34:20,002 [main] INFO RestAPI test - ***********  Checking Content Type **********
+2020-06-21 20:34:20,002 [main] INFO RestAPI test - Content type is ==>application/json;charset=utf-8
+2020-06-21 20:34:20,003 [main] INFO RestAPI test - ***********  Checking Cookies **********
+2020-06-21 20:34:20,005 [main] INFO RestAPI test - ***********  Checking Content Encoding**********
+2020-06-21 20:34:20,005 [main] INFO RestAPI test - Content Encoding is==>null
+2020-06-21 20:34:20,006 [main] INFO RestAPI test - Checking repsonse body
+2020-06-21 20:34:20,007 [main] INFO RestAPI test - response body is{"status":"success","data":null}
+2020-06-21 20:34:20,010 [main] INFO RestAPI test - Checking response time
+2020-06-21 20:34:20,010 [main] INFO RestAPI test - response time is929
+2020-06-21 20:34:20,011 [main] INFO RestAPI test - ***********  Checking Server Type **********
+2020-06-21 20:34:20,011 [main] INFO RestAPI test - Server Type is =>nginx/1.16.0
+2020-06-21 20:34:20,012 [main] INFO RestAPI test - ***********  Checking Status Line **********
+2020-06-21 20:34:20,012 [main] INFO RestAPI test - Status Line is ==>HTTP/1.1 200 OK
+2020-06-21 20:34:20,013 [main] INFO RestAPI test - Checking status code
+2020-06-21 20:34:20,013 [main] INFO RestAPI test - response code is200
+2020-06-21 20:34:20,014 [main] INFO RestAPI test - *********  Finished TC001_Update_Employees **********
+2020-06-21 20:34:38,317 [main] INFO RestAPI test - *********Started TC001_Get_All_Employees **********
+2020-06-21 20:34:43,006 [main] INFO RestAPI test - ***********  Checking Content Lenght**********
+2020-06-21 20:34:43,006 [main] INFO RestAPI test - Content Length is==>595
+2020-06-21 20:34:43,011 [main] INFO RestAPI test - ***********  Checking Content Type **********
+2020-06-21 20:34:43,012 [main] INFO RestAPI test - Content type is ==>application/json;charset=utf-8
+2020-06-21 20:34:43,013 [main] INFO RestAPI test - ***********  Checking Cookies **********
+2020-06-21 20:34:43,013 [main] INFO RestAPI test - ***********  Checking Content Encoding**********
+2020-06-21 20:34:43,014 [main] INFO RestAPI test - Content Encoding is==>gzip
+2020-06-21 20:34:43,015 [main] INFO RestAPI test - Checking repsonse body
+2020-06-21 20:34:43,040 [main] INFO RestAPI test - response body is{"status":"success","data":[{"id":"1","employee_name":"Tiger Nixon","employee_salary":"320800","employee_age":"61","profile_image":""},{"id":"2","employee_name":"Garrett Winters","employee_salary":"170750","employee_age":"63","profile_image":""},{"id":"3","employee_name":"Ashton Cox","employee_salary":"86000","employee_age":"66","profile_image":""},{"id":"4","employee_name":"Cedric Kelly","employee_salary":"433060","employee_age":"22","profile_image":""},{"id":"5","employee_name":"Airi Satou","employee_salary":"162700","employee_age":"33","profile_image":""},{"id":"6","employee_name":"Brielle Williamson","employee_salary":"372000","employee_age":"61","profile_image":""},{"id":"7","employee_name":"Herrod Chandler","employee_salary":"137500","employee_age":"59","profile_image":""},{"id":"8","employee_name":"Rhona Davidson","employee_salary":"327900","employee_age":"55","profile_image":""},{"id":"9","employee_name":"Colleen Hurst","employee_salary":"205500","employee_age":"39","profile_image":""},{"id":"10","employee_name":"Sonya Frost","employee_salary":"103600","employee_age":"23","profile_image":""},{"id":"11","employee_name":"Jena Gaines","employee_salary":"90560","employee_age":"30","profile_image":""},{"id":"12","employee_name":"Quinn Flynn","employee_salary":"342000","employee_age":"22","profile_image":""},{"id":"13","employee_name":"Charde Marshall","employee_salary":"470600","employee_age":"36","profile_image":""},{"id":"14","employee_name":"Haley Kennedy","employee_salary":"313500","employee_age":"43","profile_image":""},{"id":"15","employee_name":"Tatyana Fitzpatrick","employee_salary":"385750","employee_age":"19","profile_image":""},{"id":"16","employee_name":"Michael Silva","employee_salary":"198500","employee_age":"66","profile_image":""},{"id":"17","employee_name":"Paul Byrd","employee_salary":"725000","employee_age":"64","profile_image":""},{"id":"18","employee_name":"Gloria Little","employee_salary":"237500","employee_age":"59","profile_image":""},{"id":"19","employee_name":"Bradley Greer","employee_salary":"132000","employee_age":"41","profile_image":""},{"id":"20","employee_name":"Dai Rios","employee_salary":"217500","employee_age":"35","profile_image":""},{"id":"21","employee_name":"Jenette Caldwell","employee_salary":"345000","employee_age":"30","profile_image":""},{"id":"22","employee_name":"Yuri Berry","employee_salary":"675000","employee_age":"40","profile_image":""},{"id":"23","employee_name":"Caesar Vance","employee_salary":"106450","employee_age":"21","profile_image":""},{"id":"24","employee_name":"Doris Wilder","employee_salary":"85600","employee_age":"23","profile_image":""}]}
+2020-06-21 20:34:43,041 [main] INFO RestAPI test - Checking response time
+2020-06-21 20:34:43,042 [main] INFO RestAPI test - response time is938
+2020-06-21 20:34:43,043 [main] INFO RestAPI test - ***********  Checking Server Type **********
+2020-06-21 20:34:43,043 [main] INFO RestAPI test - Server Type is =>nginx/1.16.0
+2020-06-21 20:34:43,044 [main] INFO RestAPI test - ***********  Checking Status Line **********
+2020-06-21 20:34:43,044 [main] INFO RestAPI test - Status Line is ==>HTTP/1.1 200 OK
+2020-06-21 20:34:43,046 [main] INFO RestAPI test - Checking status code
+2020-06-21 20:34:43,047 [main] INFO RestAPI test - response code is200
+2020-06-21 20:34:43,048 [main] INFO RestAPI test - *********  Finished TC001_Get_All_Employees **********
+2020-06-21 20:34:43,056 [main] INFO RestAPI test - *********Started TC005_Delete_Employee_Record **********
+2020-06-21 20:34:47,522 [main] INFO RestAPI test - *********  Finished TC005_Delete_Employee_Record **********
+2020-06-21 20:34:47,528 [main] INFO RestAPI test - *********Started TC001_Get_Single_Employee details **********
+2020-06-21 20:34:51,479 [main] INFO RestAPI test - ***********  Checking Content Lenght**********
+2020-06-21 20:34:51,480 [main] INFO RestAPI test - Content Length is==>75
+2020-06-21 20:34:51,481 [main] WARN RestAPI test - Content Length is less than 100
+2020-06-21 20:34:51,483 [main] INFO RestAPI test - ***********  Checking Content Type **********
+2020-06-21 20:34:51,485 [main] INFO RestAPI test - Content type is ==>application/json;charset=utf-8
+2020-06-21 20:34:51,487 [main] INFO RestAPI test - ***********  Checking Cookies **********
+2020-06-21 20:34:51,490 [main] INFO RestAPI test - ***********  Checking Content Encoding**********
+2020-06-21 20:34:51,491 [main] INFO RestAPI test - Content Encoding is==>null
+2020-06-21 20:34:51,495 [main] INFO RestAPI test - Checking repsonse body
+2020-06-21 20:34:51,496 [main] INFO RestAPI test - response body is{"status":"failed","message":"Oops! someting issue found to fetch record."}
+2020-06-21 20:34:51,498 [main] INFO RestAPI test - Checking response time
+2020-06-21 20:34:51,499 [main] INFO RestAPI test - response time is945
+2020-06-21 20:34:51,500 [main] INFO RestAPI test - ***********  Checking Server Type **********
+2020-06-21 20:34:51,501 [main] INFO RestAPI test - Server Type is =>nginx/1.16.0
+2020-06-21 20:34:51,502 [main] INFO RestAPI test - ***********  Checking Status Line **********
+2020-06-21 20:34:51,503 [main] INFO RestAPI test - Status Line is ==>HTTP/1.1 400 Bad Request
+2020-06-21 20:34:51,505 [main] INFO RestAPI test - Checking status code
+2020-06-21 20:34:51,505 [main] INFO RestAPI test - response code is400
+2020-06-21 20:34:51,506 [main] INFO RestAPI test - *********  Finished TC001_Getsingle_Employee **********
+2020-06-21 20:34:51,512 [main] INFO RestAPI test - *********Started TC00Create_Employees **********
+2020-06-21 20:34:59,515 [main] INFO RestAPI test - ***********  Checking Content Lenght**********
+2020-06-21 20:34:59,516 [main] INFO RestAPI test - Content Length is==>85
+2020-06-21 20:34:59,517 [main] WARN RestAPI test - Content Length is less than 100
+2020-06-21 20:34:59,522 [main] INFO RestAPI test - ***********  Checking Content Type **********
+2020-06-21 20:34:59,522 [main] INFO RestAPI test - Content type is ==>application/json;charset=utf-8
+2020-06-21 20:34:59,523 [main] INFO RestAPI test - ***********  Checking Cookies **********
+2020-06-21 20:34:59,524 [main] INFO RestAPI test - ***********  Checking Content Encoding**********
+2020-06-21 20:34:59,525 [main] INFO RestAPI test - Content Encoding is==>null
+2020-06-21 20:34:59,527 [main] INFO RestAPI test - Checking repsonse body
+2020-06-21 20:34:59,528 [main] INFO RestAPI test - response body is{"status":"success","data":{"name":"Deepthisnw","salary":"69961","age":"46","id":99}}
+2020-06-21 20:34:59,530 [main] INFO RestAPI test - Checking response time
+2020-06-21 20:34:59,531 [main] INFO RestAPI test - response time is990
+2020-06-21 20:34:59,534 [main] INFO RestAPI test - ***********  Checking Server Type **********
+2020-06-21 20:34:59,535 [main] INFO RestAPI test - Server Type is =>nginx/1.16.0
+2020-06-21 20:34:59,536 [main] INFO RestAPI test - ***********  Checking Status Line **********
+2020-06-21 20:34:59,537 [main] INFO RestAPI test - Status Line is ==>HTTP/1.1 200 OK
+2020-06-21 20:34:59,538 [main] INFO RestAPI test - Checking status code
+2020-06-21 20:34:59,539 [main] INFO RestAPI test - response code is200
+2020-06-21 20:34:59,539 [main] INFO RestAPI test - *********  Finished TC001_Get_All_Employees **********
+2020-06-21 20:34:59,546 [main] INFO RestAPI test - *********Started update employees **********
+2020-06-21 20:35:07,712 [main] INFO RestAPI test - ***********  Checking Content Lenght**********
+2020-06-21 20:35:07,713 [main] INFO RestAPI test - Content Length is==>32
+2020-06-21 20:35:07,713 [main] WARN RestAPI test - Content Length is less than 100
+2020-06-21 20:35:07,715 [main] INFO RestAPI test - ***********  Checking Content Type **********
+2020-06-21 20:35:07,715 [main] INFO RestAPI test - Content type is ==>application/json;charset=utf-8
+2020-06-21 20:35:07,716 [main] INFO RestAPI test - ***********  Checking Cookies **********
+2020-06-21 20:35:07,717 [main] INFO RestAPI test - ***********  Checking Content Encoding**********
+2020-06-21 20:35:07,717 [main] INFO RestAPI test - Content Encoding is==>null
+2020-06-21 20:35:07,717 [main] INFO RestAPI test - Checking repsonse body
+2020-06-21 20:35:07,718 [main] INFO RestAPI test - response body is{"status":"success","data":null}
+2020-06-21 20:35:07,719 [main] INFO RestAPI test - Checking response time
+2020-06-21 20:35:07,719 [main] INFO RestAPI test - response time is1157
+2020-06-21 20:35:07,719 [main] INFO RestAPI test - ***********  Checking Server Type **********
+2020-06-21 20:35:07,720 [main] INFO RestAPI test - Server Type is =>nginx/1.16.0
+2020-06-21 20:35:07,720 [main] INFO RestAPI test - ***********  Checking Status Line **********
+2020-06-21 20:35:07,720 [main] INFO RestAPI test - Status Line is ==>HTTP/1.1 200 OK
+2020-06-21 20:35:07,721 [main] INFO RestAPI test - Checking status code
+2020-06-21 20:35:07,721 [main] INFO RestAPI test - response code is200
+2020-06-21 20:35:07,722 [main] INFO RestAPI test - *********  Finished TC001_Update_Employees **********
+2020-06-21 20:40:08,417 [main] INFO RestAPI test - *********Started TC001_Get_All_Employees **********
+2020-06-21 20:40:13,529 [main] INFO RestAPI test - ***********  Checking Content Lenght**********
+2020-06-21 20:40:13,530 [main] INFO RestAPI test - Content Length is==>595
+2020-06-21 20:40:13,536 [main] INFO RestAPI test - ***********  Checking Content Type **********
+2020-06-21 20:40:13,536 [main] INFO RestAPI test - Content type is ==>application/json;charset=utf-8
+2020-06-21 20:40:13,537 [main] INFO RestAPI test - ***********  Checking Cookies **********
+2020-06-21 20:40:13,538 [main] INFO RestAPI test - ***********  Checking Content Encoding**********
+2020-06-21 20:40:13,539 [main] INFO RestAPI test - Content Encoding is==>gzip
+2020-06-21 20:40:13,542 [main] INFO RestAPI test - Checking repsonse body
+2020-06-21 20:40:13,568 [main] INFO RestAPI test - response body is{"status":"success","data":[{"id":"1","employee_name":"Tiger Nixon","employee_salary":"320800","employee_age":"61","profile_image":""},{"id":"2","employee_name":"Garrett Winters","employee_salary":"170750","employee_age":"63","profile_image":""},{"id":"3","employee_name":"Ashton Cox","employee_salary":"86000","employee_age":"66","profile_image":""},{"id":"4","employee_name":"Cedric Kelly","employee_salary":"433060","employee_age":"22","profile_image":""},{"id":"5","employee_name":"Airi Satou","employee_salary":"162700","employee_age":"33","profile_image":""},{"id":"6","employee_name":"Brielle Williamson","employee_salary":"372000","employee_age":"61","profile_image":""},{"id":"7","employee_name":"Herrod Chandler","employee_salary":"137500","employee_age":"59","profile_image":""},{"id":"8","employee_name":"Rhona Davidson","employee_salary":"327900","employee_age":"55","profile_image":""},{"id":"9","employee_name":"Colleen Hurst","employee_salary":"205500","employee_age":"39","profile_image":""},{"id":"10","employee_name":"Sonya Frost","employee_salary":"103600","employee_age":"23","profile_image":""},{"id":"11","employee_name":"Jena Gaines","employee_salary":"90560","employee_age":"30","profile_image":""},{"id":"12","employee_name":"Quinn Flynn","employee_salary":"342000","employee_age":"22","profile_image":""},{"id":"13","employee_name":"Charde Marshall","employee_salary":"470600","employee_age":"36","profile_image":""},{"id":"14","employee_name":"Haley Kennedy","employee_salary":"313500","employee_age":"43","profile_image":""},{"id":"15","employee_name":"Tatyana Fitzpatrick","employee_salary":"385750","employee_age":"19","profile_image":""},{"id":"16","employee_name":"Michael Silva","employee_salary":"198500","employee_age":"66","profile_image":""},{"id":"17","employee_name":"Paul Byrd","employee_salary":"725000","employee_age":"64","profile_image":""},{"id":"18","employee_name":"Gloria Little","employee_salary":"237500","employee_age":"59","profile_image":""},{"id":"19","employee_name":"Bradley Greer","employee_salary":"132000","employee_age":"41","profile_image":""},{"id":"20","employee_name":"Dai Rios","employee_salary":"217500","employee_age":"35","profile_image":""},{"id":"21","employee_name":"Jenette Caldwell","employee_salary":"345000","employee_age":"30","profile_image":""},{"id":"22","employee_name":"Yuri Berry","employee_salary":"675000","employee_age":"40","profile_image":""},{"id":"23","employee_name":"Caesar Vance","employee_salary":"106450","employee_age":"21","profile_image":""},{"id":"24","employee_name":"Doris Wilder","employee_salary":"85600","employee_age":"23","profile_image":""}]}
+2020-06-21 20:40:13,569 [main] INFO RestAPI test - Checking response time
+2020-06-21 20:40:13,570 [main] INFO RestAPI test - response time is1353
+2020-06-21 20:40:13,571 [main] INFO RestAPI test - ***********  Checking Server Type **********
+2020-06-21 20:40:13,571 [main] INFO RestAPI test - Server Type is =>nginx/1.16.0
+2020-06-21 20:40:13,572 [main] INFO RestAPI test - ***********  Checking Status Line **********
+2020-06-21 20:40:13,572 [main] INFO RestAPI test - Status Line is ==>HTTP/1.1 200 OK
+2020-06-21 20:40:13,576 [main] INFO RestAPI test - Checking status code
+2020-06-21 20:40:13,577 [main] INFO RestAPI test - response code is200
+2020-06-21 20:40:13,577 [main] INFO RestAPI test - *********  Finished TC001_Get_All_Employees **********
+2020-06-21 20:40:13,586 [main] INFO RestAPI test - *********Started TC005_Delete_Employee_Record **********
+2020-06-21 20:40:18,537 [main] INFO RestAPI test - *********  Finished TC005_Delete_Employee_Record **********
+2020-06-21 20:40:18,540 [main] INFO RestAPI test - *********Started TC001_Get_Single_Employee details **********
+2020-06-21 20:40:22,482 [main] INFO RestAPI test - ***********  Checking Content Lenght**********
+2020-06-21 20:40:22,483 [main] INFO RestAPI test - Content Length is==>75
+2020-06-21 20:40:22,483 [main] WARN RestAPI test - Content Length is less than 100
+2020-06-21 20:40:22,485 [main] INFO RestAPI test - ***********  Checking Content Type **********
+2020-06-21 20:40:22,486 [main] INFO RestAPI test - Content type is ==>application/json;charset=utf-8
+2020-06-21 20:40:22,487 [main] INFO RestAPI test - ***********  Checking Cookies **********
+2020-06-21 20:40:22,490 [main] INFO RestAPI test - ***********  Checking Content Encoding**********
+2020-06-21 20:40:22,491 [main] INFO RestAPI test - Content Encoding is==>null
+2020-06-21 20:40:22,492 [main] INFO RestAPI test - Checking repsonse body
+2020-06-21 20:40:22,493 [main] INFO RestAPI test - response body is{"status":"failed","message":"Oops! someting issue found to fetch record."}
+2020-06-21 20:40:22,495 [main] INFO RestAPI test - Checking response time
+2020-06-21 20:40:22,496 [main] INFO RestAPI test - response time is936
+2020-06-21 20:40:22,496 [main] INFO RestAPI test - ***********  Checking Server Type **********
+2020-06-21 20:40:22,497 [main] INFO RestAPI test - Server Type is =>nginx/1.16.0
+2020-06-21 20:40:22,497 [main] INFO RestAPI test - ***********  Checking Status Line **********
+2020-06-21 20:40:22,497 [main] INFO RestAPI test - Status Line is ==>HTTP/1.1 400 Bad Request
+2020-06-21 20:40:22,498 [main] INFO RestAPI test - Checking status code
+2020-06-21 20:40:22,499 [main] INFO RestAPI test - response code is400
+2020-06-21 20:40:22,500 [main] INFO RestAPI test - *********  Finished TC001_Getsingle_Employee **********
+2020-06-21 20:40:22,507 [main] INFO RestAPI test - *********Started TC00Create_Employees **********
+2020-06-21 20:40:30,548 [main] INFO RestAPI test - ***********  Checking Content Lenght**********
+2020-06-21 20:40:30,549 [main] INFO RestAPI test - Content Length is==>85
+2020-06-21 20:40:30,549 [main] WARN RestAPI test - Content Length is less than 100
+2020-06-21 20:40:30,554 [main] INFO RestAPI test - ***********  Checking Content Type **********
+2020-06-21 20:40:30,555 [main] INFO RestAPI test - Content type is ==>application/json;charset=utf-8
+2020-06-21 20:40:30,555 [main] INFO RestAPI test - ***********  Checking Cookies **********
+2020-06-21 20:40:30,555 [main] INFO RestAPI test - ***********  Checking Content Encoding**********
+2020-06-21 20:40:30,556 [main] INFO RestAPI test - Content Encoding is==>null
+2020-06-21 20:40:30,556 [main] INFO RestAPI test - Checking repsonse body
+2020-06-21 20:40:30,557 [main] INFO RestAPI test - response body is{"status":"success","data":{"name":"DeepthiCiY","salary":"05008","age":"97","id":44}}
+2020-06-21 20:40:30,558 [main] INFO RestAPI test - Checking response time
+2020-06-21 20:40:30,559 [main] INFO RestAPI test - response time is1030
+2020-06-21 20:40:30,560 [main] INFO RestAPI test - ***********  Checking Server Type **********
+2020-06-21 20:40:30,560 [main] INFO RestAPI test - Server Type is =>nginx/1.16.0
+2020-06-21 20:40:30,561 [main] INFO RestAPI test - ***********  Checking Status Line **********
+2020-06-21 20:40:30,561 [main] INFO RestAPI test - Status Line is ==>HTTP/1.1 200 OK
+2020-06-21 20:40:30,562 [main] INFO RestAPI test - Checking status code
+2020-06-21 20:40:30,562 [main] INFO RestAPI test - response code is200
+2020-06-21 20:40:30,563 [main] INFO RestAPI test - *********  Finished TC001_Get_All_Employees **********
+2020-06-21 20:40:30,568 [main] INFO RestAPI test - *********Started update employees **********
+2020-06-21 20:40:38,505 [main] INFO RestAPI test - ***********  Checking Content Lenght**********
+2020-06-21 20:40:38,506 [main] INFO RestAPI test - Content Length is==>32
+2020-06-21 20:40:38,506 [main] WARN RestAPI test - Content Length is less than 100
+2020-06-21 20:40:38,508 [main] INFO RestAPI test - ***********  Checking Content Type **********
+2020-06-21 20:40:38,508 [main] INFO RestAPI test - Content type is ==>application/json;charset=utf-8
+2020-06-21 20:40:38,509 [main] INFO RestAPI test - ***********  Checking Cookies **********
+2020-06-21 20:40:38,510 [main] INFO RestAPI test - ***********  Checking Content Encoding**********
+2020-06-21 20:40:38,510 [main] INFO RestAPI test - Content Encoding is==>null
+2020-06-21 20:40:38,511 [main] INFO RestAPI test - Checking repsonse body
+2020-06-21 20:40:38,512 [main] INFO RestAPI test - response body is{"status":"success","data":null}
+2020-06-21 20:40:38,513 [main] INFO RestAPI test - Checking response time
+2020-06-21 20:40:38,513 [main] INFO RestAPI test - response time is930
+2020-06-21 20:40:38,514 [main] INFO RestAPI test - ***********  Checking Server Type **********
+2020-06-21 20:40:38,515 [main] INFO RestAPI test - Server Type is =>nginx/1.16.0
+2020-06-21 20:40:38,515 [main] INFO RestAPI test - ***********  Checking Status Line **********
+2020-06-21 20:40:38,516 [main] INFO RestAPI test - Status Line is ==>HTTP/1.1 200 OK
+2020-06-21 20:40:38,517 [main] INFO RestAPI test - Checking status code
+2020-06-21 20:40:38,517 [main] INFO RestAPI test - response code is200
+2020-06-21 20:40:38,518 [main] INFO RestAPI test - *********  Finished TC001_Update_Employees **********
+2020-06-21 20:49:12,426 [main] INFO RestAPI test - *********Started TC001_Get_All_Employees **********
+2020-06-21 20:49:17,701 [main] INFO RestAPI test - ***********  Checking Content Lenght**********
+2020-06-21 20:49:17,701 [main] INFO RestAPI test - Content Length is==>595
+2020-06-21 20:49:17,706 [main] INFO RestAPI test - ***********  Checking Content Type **********
+2020-06-21 20:49:17,707 [main] INFO RestAPI test - Content type is ==>application/json;charset=utf-8
+2020-06-21 20:49:17,708 [main] INFO RestAPI test - ***********  Checking Cookies **********
+2020-06-21 20:49:17,710 [main] INFO RestAPI test - ***********  Checking Content Encoding**********
+2020-06-21 20:49:17,711 [main] INFO RestAPI test - Content Encoding is==>gzip
+2020-06-21 20:49:17,713 [main] INFO RestAPI test - Checking repsonse body
+2020-06-21 20:49:17,733 [main] INFO RestAPI test - response body is{"status":"success","data":[{"id":"1","employee_name":"Tiger Nixon","employee_salary":"320800","employee_age":"61","profile_image":""},{"id":"2","employee_name":"Garrett Winters","employee_salary":"170750","employee_age":"63","profile_image":""},{"id":"3","employee_name":"Ashton Cox","employee_salary":"86000","employee_age":"66","profile_image":""},{"id":"4","employee_name":"Cedric Kelly","employee_salary":"433060","employee_age":"22","profile_image":""},{"id":"5","employee_name":"Airi Satou","employee_salary":"162700","employee_age":"33","profile_image":""},{"id":"6","employee_name":"Brielle Williamson","employee_salary":"372000","employee_age":"61","profile_image":""},{"id":"7","employee_name":"Herrod Chandler","employee_salary":"137500","employee_age":"59","profile_image":""},{"id":"8","employee_name":"Rhona Davidson","employee_salary":"327900","employee_age":"55","profile_image":""},{"id":"9","employee_name":"Colleen Hurst","employee_salary":"205500","employee_age":"39","profile_image":""},{"id":"10","employee_name":"Sonya Frost","employee_salary":"103600","employee_age":"23","profile_image":""},{"id":"11","employee_name":"Jena Gaines","employee_salary":"90560","employee_age":"30","profile_image":""},{"id":"12","employee_name":"Quinn Flynn","employee_salary":"342000","employee_age":"22","profile_image":""},{"id":"13","employee_name":"Charde Marshall","employee_salary":"470600","employee_age":"36","profile_image":""},{"id":"14","employee_name":"Haley Kennedy","employee_salary":"313500","employee_age":"43","profile_image":""},{"id":"15","employee_name":"Tatyana Fitzpatrick","employee_salary":"385750","employee_age":"19","profile_image":""},{"id":"16","employee_name":"Michael Silva","employee_salary":"198500","employee_age":"66","profile_image":""},{"id":"17","employee_name":"Paul Byrd","employee_salary":"725000","employee_age":"64","profile_image":""},{"id":"18","employee_name":"Gloria Little","employee_salary":"237500","employee_age":"59","profile_image":""},{"id":"19","employee_name":"Bradley Greer","employee_salary":"132000","employee_age":"41","profile_image":""},{"id":"20","employee_name":"Dai Rios","employee_salary":"217500","employee_age":"35","profile_image":""},{"id":"21","employee_name":"Jenette Caldwell","employee_salary":"345000","employee_age":"30","profile_image":""},{"id":"22","employee_name":"Yuri Berry","employee_salary":"675000","employee_age":"40","profile_image":""},{"id":"23","employee_name":"Caesar Vance","employee_salary":"106450","employee_age":"21","profile_image":""},{"id":"24","employee_name":"Doris Wilder","employee_salary":"85600","employee_age":"23","profile_image":""}]}
+2020-06-21 20:49:17,734 [main] INFO RestAPI test - Checking response time
+2020-06-21 20:49:17,734 [main] INFO RestAPI test - response time is1464
+2020-06-21 20:49:17,735 [main] INFO RestAPI test - ***********  Checking Server Type **********
+2020-06-21 20:49:17,735 [main] INFO RestAPI test - Server Type is =>nginx/1.16.0
+2020-06-21 20:49:17,736 [main] INFO RestAPI test - ***********  Checking Status Line **********
+2020-06-21 20:49:17,736 [main] INFO RestAPI test - Status Line is ==>HTTP/1.1 200 OK
+2020-06-21 20:49:17,737 [main] INFO RestAPI test - Checking status code
+2020-06-21 20:49:17,737 [main] INFO RestAPI test - response code is200
+2020-06-21 20:49:17,738 [main] INFO RestAPI test - *********  Finished TC001_Get_All_Employees **********
+2020-06-21 20:49:17,743 [main] INFO RestAPI test - *********Started TC005_Delete_Employee_Record **********
+2020-06-21 20:49:22,309 [main] INFO RestAPI test - *********  Finished TC005_Delete_Employee_Record **********
+2020-06-21 20:49:22,315 [main] INFO RestAPI test - *********Started TC001_Get_Single_Employee details **********
+2020-06-21 20:49:26,248 [main] INFO RestAPI test - ***********  Checking Content Lenght**********
+2020-06-21 20:49:26,249 [main] INFO RestAPI test - Content Length is==>75
+2020-06-21 20:49:26,250 [main] WARN RestAPI test - Content Length is less than 100
+2020-06-21 20:49:26,252 [main] INFO RestAPI test - ***********  Checking Content Type **********
+2020-06-21 20:49:26,253 [main] INFO RestAPI test - Content type is ==>application/json;charset=utf-8
+2020-06-21 20:49:26,256 [main] INFO RestAPI test - ***********  Checking Cookies **********
+2020-06-21 20:49:26,260 [main] INFO RestAPI test - ***********  Checking Content Encoding**********
+2020-06-21 20:49:26,261 [main] INFO RestAPI test - Content Encoding is==>null
+2020-06-21 20:49:26,263 [main] INFO RestAPI test - Checking repsonse body
+2020-06-21 20:49:26,264 [main] INFO RestAPI test - response body is{"status":"failed","message":"Oops! someting issue found to fetch record."}
+2020-06-21 20:49:26,266 [main] INFO RestAPI test - Checking response time
+2020-06-21 20:49:26,266 [main] INFO RestAPI test - response time is927
+2020-06-21 20:49:26,267 [main] INFO RestAPI test - ***********  Checking Server Type **********
+2020-06-21 20:49:26,268 [main] INFO RestAPI test - Server Type is =>nginx/1.16.0
+2020-06-21 20:49:26,269 [main] INFO RestAPI test - ***********  Checking Status Line **********
+2020-06-21 20:49:26,269 [main] INFO RestAPI test - Status Line is ==>HTTP/1.1 400 Bad Request
+2020-06-21 20:49:26,271 [main] INFO RestAPI test - Checking status code
+2020-06-21 20:49:26,271 [main] INFO RestAPI test - response code is400
+2020-06-21 20:49:26,273 [main] INFO RestAPI test - *********  Finished TC001_Getsingle_Employee **********
+2020-06-21 20:49:26,282 [main] INFO RestAPI test - *********Started TC00Create_Employees **********
+2020-06-21 20:49:34,193 [main] INFO RestAPI test - ***********  Checking Content Lenght**********
+2020-06-21 20:49:34,193 [main] INFO RestAPI test - Content Length is==>85
+2020-06-21 20:49:34,194 [main] WARN RestAPI test - Content Length is less than 100
+2020-06-21 20:49:34,199 [main] INFO RestAPI test - ***********  Checking Content Type **********
+2020-06-21 20:49:34,199 [main] INFO RestAPI test - Content type is ==>application/json;charset=utf-8
+2020-06-21 20:49:34,200 [main] INFO RestAPI test - ***********  Checking Cookies **********
+2020-06-21 20:49:34,201 [main] INFO RestAPI test - ***********  Checking Content Encoding**********
+2020-06-21 20:49:34,201 [main] INFO RestAPI test - Content Encoding is==>null
+2020-06-21 20:49:34,202 [main] INFO RestAPI test - Checking repsonse body
+2020-06-21 20:49:34,203 [main] INFO RestAPI test - response body is{"status":"success","data":{"name":"DeepthiYbj","salary":"28589","age":"32","id":76}}
+2020-06-21 20:49:34,204 [main] INFO RestAPI test - Checking response time
+2020-06-21 20:49:34,205 [main] INFO RestAPI test - response time is897
+2020-06-21 20:49:34,206 [main] INFO RestAPI test - ***********  Checking Server Type **********
+2020-06-21 20:49:34,207 [main] INFO RestAPI test - Server Type is =>nginx/1.16.0
+2020-06-21 20:49:34,208 [main] INFO RestAPI test - ***********  Checking Status Line **********
+2020-06-21 20:49:34,208 [main] INFO RestAPI test - Status Line is ==>HTTP/1.1 200 OK
+2020-06-21 20:49:34,209 [main] INFO RestAPI test - Checking status code
+2020-06-21 20:49:34,209 [main] INFO RestAPI test - response code is200
+2020-06-21 20:49:34,210 [main] INFO RestAPI test - *********  Finished TC001_Get_All_Employees **********
+2020-06-21 20:49:34,215 [main] INFO RestAPI test - *********Started update employees **********
+2020-06-21 20:49:42,070 [main] INFO RestAPI test - ***********  Checking Content Lenght**********
+2020-06-21 20:49:42,071 [main] INFO RestAPI test - Content Length is==>32
+2020-06-21 20:49:42,071 [main] WARN RestAPI test - Content Length is less than 100
+2020-06-21 20:49:42,072 [main] INFO RestAPI test - ***********  Checking Content Type **********
+2020-06-21 20:49:42,073 [main] INFO RestAPI test - Content type is ==>application/json;charset=utf-8
+2020-06-21 20:49:42,073 [main] INFO RestAPI test - ***********  Checking Cookies **********
+2020-06-21 20:49:42,074 [main] INFO RestAPI test - ***********  Checking Content Encoding**********
+2020-06-21 20:49:42,074 [main] INFO RestAPI test - Content Encoding is==>null
+2020-06-21 20:49:42,074 [main] INFO RestAPI test - Checking repsonse body
+2020-06-21 20:49:42,075 [main] INFO RestAPI test - response body is{"status":"success","data":null}
+2020-06-21 20:49:42,076 [main] INFO RestAPI test - Checking response time
+2020-06-21 20:49:42,076 [main] INFO RestAPI test - response time is848
+2020-06-21 20:49:42,076 [main] INFO RestAPI test - ***********  Checking Server Type **********
+2020-06-21 20:49:42,077 [main] INFO RestAPI test - Server Type is =>nginx/1.16.0
+2020-06-21 20:49:42,077 [main] INFO RestAPI test - ***********  Checking Status Line **********
+2020-06-21 20:49:42,077 [main] INFO RestAPI test - Status Line is ==>HTTP/1.1 200 OK
+2020-06-21 20:49:42,078 [main] INFO RestAPI test - Checking status code
+2020-06-21 20:49:42,078 [main] INFO RestAPI test - response code is200
+2020-06-21 20:49:42,078 [main] INFO RestAPI test - *********  Finished TC001_Update_Employees **********
+2020-06-21 21:07:14,440 [main] INFO RestAPI test - *********Started TC001_Get_All_Employees **********
+2020-06-21 21:07:22,241 [main] INFO RestAPI test - ***********  Checking Content Lenght**********
+2020-06-21 21:07:22,242 [main] INFO RestAPI test - Content Length is==>595
+2020-06-21 21:07:22,244 [main] INFO RestAPI test - ***********  Checking Content Type **********
+2020-06-21 21:07:22,245 [main] INFO RestAPI test - Content type is ==>application/json;charset=utf-8
+2020-06-21 21:07:22,245 [main] INFO RestAPI test - ***********  Checking Cookies **********
+2020-06-21 21:07:22,246 [main] INFO RestAPI test - ***********  Checking Content Encoding**********
+2020-06-21 21:07:22,246 [main] INFO RestAPI test - Content Encoding is==>gzip
+2020-06-21 21:07:22,247 [main] INFO RestAPI test - Checking repsonse body
+2020-06-21 21:07:22,273 [main] INFO RestAPI test - response body is{"status":"success","data":[{"id":"1","employee_name":"Tiger Nixon","employee_salary":"320800","employee_age":"61","profile_image":""},{"id":"2","employee_name":"Garrett Winters","employee_salary":"170750","employee_age":"63","profile_image":""},{"id":"3","employee_name":"Ashton Cox","employee_salary":"86000","employee_age":"66","profile_image":""},{"id":"4","employee_name":"Cedric Kelly","employee_salary":"433060","employee_age":"22","profile_image":""},{"id":"5","employee_name":"Airi Satou","employee_salary":"162700","employee_age":"33","profile_image":""},{"id":"6","employee_name":"Brielle Williamson","employee_salary":"372000","employee_age":"61","profile_image":""},{"id":"7","employee_name":"Herrod Chandler","employee_salary":"137500","employee_age":"59","profile_image":""},{"id":"8","employee_name":"Rhona Davidson","employee_salary":"327900","employee_age":"55","profile_image":""},{"id":"9","employee_name":"Colleen Hurst","employee_salary":"205500","employee_age":"39","profile_image":""},{"id":"10","employee_name":"Sonya Frost","employee_salary":"103600","employee_age":"23","profile_image":""},{"id":"11","employee_name":"Jena Gaines","employee_salary":"90560","employee_age":"30","profile_image":""},{"id":"12","employee_name":"Quinn Flynn","employee_salary":"342000","employee_age":"22","profile_image":""},{"id":"13","employee_name":"Charde Marshall","employee_salary":"470600","employee_age":"36","profile_image":""},{"id":"14","employee_name":"Haley Kennedy","employee_salary":"313500","employee_age":"43","profile_image":""},{"id":"15","employee_name":"Tatyana Fitzpatrick","employee_salary":"385750","employee_age":"19","profile_image":""},{"id":"16","employee_name":"Michael Silva","employee_salary":"198500","employee_age":"66","profile_image":""},{"id":"17","employee_name":"Paul Byrd","employee_salary":"725000","employee_age":"64","profile_image":""},{"id":"18","employee_name":"Gloria Little","employee_salary":"237500","employee_age":"59","profile_image":""},{"id":"19","employee_name":"Bradley Greer","employee_salary":"132000","employee_age":"41","profile_image":""},{"id":"20","employee_name":"Dai Rios","employee_salary":"217500","employee_age":"35","profile_image":""},{"id":"21","employee_name":"Jenette Caldwell","employee_salary":"345000","employee_age":"30","profile_image":""},{"id":"22","employee_name":"Yuri Berry","employee_salary":"675000","employee_age":"40","profile_image":""},{"id":"23","employee_name":"Caesar Vance","employee_salary":"106450","employee_age":"21","profile_image":""},{"id":"24","employee_name":"Doris Wilder","employee_salary":"85600","employee_age":"23","profile_image":""}]}
+2020-06-21 21:07:22,274 [main] INFO RestAPI test - Checking response time
+2020-06-21 21:07:22,275 [main] INFO RestAPI test - response time is2491
+2020-06-21 21:07:22,275 [main] WARN RestAPI test - Response Time is greater than 2000
+2020-06-21 21:07:22,276 [main] INFO RestAPI test - ***********  Checking Server Type **********
+2020-06-21 21:07:22,276 [main] INFO RestAPI test - Server Type is =>nginx/1.16.0
+2020-06-21 21:07:22,277 [main] INFO RestAPI test - ***********  Checking Status Line **********
+2020-06-21 21:07:22,279 [main] INFO RestAPI test - Status Line is ==>HTTP/1.1 200 OK
+2020-06-21 21:07:22,280 [main] INFO RestAPI test - Checking status code
+2020-06-21 21:07:22,280 [main] INFO RestAPI test - response code is200
+2020-06-21 21:07:22,281 [main] INFO RestAPI test - *********  Finished TC001_Get_All_Employees **********
+2020-06-21 21:07:22,285 [main] INFO RestAPI test - *********Started TC005_Delete_Employee_Record **********
+2020-06-21 21:07:27,062 [main] INFO RestAPI test - *********  Finished TC005_Delete_Employee_Record **********
+2020-06-21 21:07:27,069 [main] INFO RestAPI test - *********Started TC001_Get_Single_Employee details **********
+2020-06-21 21:07:30,959 [main] INFO RestAPI test - ***********  Checking Content Lenght**********
+2020-06-21 21:07:30,960 [main] INFO RestAPI test - Content Length is==>75
+2020-06-21 21:07:30,961 [main] WARN RestAPI test - Content Length is less than 100
+2020-06-21 21:07:30,962 [main] INFO RestAPI test - ***********  Checking Content Type **********
+2020-06-21 21:07:30,962 [main] INFO RestAPI test - Content type is ==>application/json;charset=utf-8
+2020-06-21 21:07:30,963 [main] INFO RestAPI test - ***********  Checking Cookies **********
+2020-06-21 21:07:30,966 [main] INFO RestAPI test - ***********  Checking Content Encoding**********
+2020-06-21 21:07:30,966 [main] INFO RestAPI test - Content Encoding is==>null
+2020-06-21 21:07:30,968 [main] INFO RestAPI test - Checking repsonse body
+2020-06-21 21:07:30,969 [main] INFO RestAPI test - response body is{"status":"failed","message":"Oops! someting issue found to fetch record."}
+2020-06-21 21:07:30,970 [main] INFO RestAPI test - Checking response time
+2020-06-21 21:07:30,971 [main] INFO RestAPI test - response time is884
+2020-06-21 21:07:30,972 [main] INFO RestAPI test - ***********  Checking Server Type **********
+2020-06-21 21:07:30,972 [main] INFO RestAPI test - Server Type is =>nginx/1.16.0
+2020-06-21 21:07:30,973 [main] INFO RestAPI test - ***********  Checking Status Line **********
+2020-06-21 21:07:30,974 [main] INFO RestAPI test - Status Line is ==>HTTP/1.1 400 Bad Request
+2020-06-21 21:07:30,975 [main] INFO RestAPI test - Checking status code
+2020-06-21 21:07:30,975 [main] INFO RestAPI test - response code is400
+2020-06-21 21:07:30,977 [main] INFO RestAPI test - *********  Finished TC001_Getsingle_Employee **********
+2020-06-21 21:07:30,983 [main] INFO RestAPI test - *********Started TC00Create_Employees **********
+2020-06-21 21:07:39,891 [main] INFO RestAPI test - ***********  Checking Content Lenght**********
+2020-06-21 21:07:39,892 [main] INFO RestAPI test - Content Length is==>85
+2020-06-21 21:07:39,892 [main] WARN RestAPI test - Content Length is less than 100
+2020-06-21 21:07:39,893 [main] INFO RestAPI test - ***********  Checking Content Type **********
+2020-06-21 21:07:39,893 [main] INFO RestAPI test - Content type is ==>application/json;charset=utf-8
+2020-06-21 21:07:39,894 [main] INFO RestAPI test - ***********  Checking Cookies **********
+2020-06-21 21:07:39,895 [main] INFO RestAPI test - ***********  Checking Content Encoding**********
+2020-06-21 21:07:39,895 [main] INFO RestAPI test - Content Encoding is==>null
+2020-06-21 21:07:39,896 [main] INFO RestAPI test - Checking repsonse body
+2020-06-21 21:07:39,897 [main] INFO RestAPI test - response body is{"status":"success","data":{"name":"DeepthiEzE","salary":"10388","age":"21","id":52}}
+2020-06-21 21:07:39,899 [main] INFO RestAPI test - Checking response time
+2020-06-21 21:07:39,899 [main] INFO RestAPI test - response time is1897
+2020-06-21 21:07:39,899 [main] INFO RestAPI test - ***********  Checking Server Type **********
+2020-06-21 21:07:39,900 [main] INFO RestAPI test - Server Type is =>nginx/1.16.0
+2020-06-21 21:07:39,900 [main] INFO RestAPI test - ***********  Checking Status Line **********
+2020-06-21 21:07:39,900 [main] INFO RestAPI test - Status Line is ==>HTTP/1.1 200 OK
+2020-06-21 21:07:39,900 [main] INFO RestAPI test - Checking status code
+2020-06-21 21:07:39,901 [main] INFO RestAPI test - response code is200
+2020-06-21 21:07:39,901 [main] INFO RestAPI test - *********  Finished TC001_Get_All_Employees **********
+2020-06-21 21:07:39,904 [main] INFO RestAPI test - *********Started update employees **********
+2020-06-21 21:07:47,820 [main] INFO RestAPI test - ***********  Checking Content Lenght**********
+2020-06-21 21:07:47,821 [main] INFO RestAPI test - Content Length is==>32
+2020-06-21 21:07:47,822 [main] WARN RestAPI test - Content Length is less than 100
+2020-06-21 21:07:47,824 [main] INFO RestAPI test - ***********  Checking Content Type **********
+2020-06-21 21:07:47,824 [main] INFO RestAPI test - Content type is ==>application/json;charset=utf-8
+2020-06-21 21:07:47,826 [main] INFO RestAPI test - ***********  Checking Cookies **********
+2020-06-21 21:07:47,828 [main] INFO RestAPI test - ***********  Checking Content Encoding**********
+2020-06-21 21:07:47,828 [main] INFO RestAPI test - Content Encoding is==>null
+2020-06-21 21:07:47,830 [main] INFO RestAPI test - Checking repsonse body
+2020-06-21 21:07:47,830 [main] INFO RestAPI test - response body is{"status":"success","data":null}
+2020-06-21 21:07:47,831 [main] INFO RestAPI test - Checking response time
+2020-06-21 21:07:47,832 [main] INFO RestAPI test - response time is911
+2020-06-21 21:07:47,832 [main] INFO RestAPI test - ***********  Checking Server Type **********
+2020-06-21 21:07:47,833 [main] INFO RestAPI test - Server Type is =>nginx/1.16.0
+2020-06-21 21:07:47,833 [main] INFO RestAPI test - ***********  Checking Status Line **********
+2020-06-21 21:07:47,833 [main] INFO RestAPI test - Status Line is ==>HTTP/1.1 200 OK
+2020-06-21 21:07:47,834 [main] INFO RestAPI test - Checking status code
+2020-06-21 21:07:47,834 [main] INFO RestAPI test - response code is200
+2020-06-21 21:07:47,835 [main] INFO RestAPI test - *********  Finished TC001_Update_Employees **********

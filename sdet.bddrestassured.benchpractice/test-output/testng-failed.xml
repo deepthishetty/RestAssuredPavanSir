@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test name="Test(failed)">
+    <classes>
+      <class name="com.employee.testcases.GetSingleEmployee">
+        <methods>
+          <include name="setup"/>
+          <include name="checkstatuscode"/>
+          <include name="getAllEmployees"/>
+          <include name="tearDown"/>
+          <include name="checkcontentEncoding"/>
+          <include name="checkrepsonseBody"/>
+          <include name="checkstatusLine"/>
+          <include name="checkContentLenght"/>
+        </methods>
+      </class> <!-- com.employee.testcases.GetSingleEmployee -->
+      <class name="com.employee.testcases.DeleteEmployee">
+        <methods>
+          <include name="setup"/>
+          <include name="checkContentType"/>
+          <include name="deleteEmployee"/>
+          <include name="tearDown"/>
+          <include name="checkResposeBody"/>
+          <include name="checkcontentEncoding"/>
+          <include name="checkserverType"/>
+        </methods>
+      </class> <!-- com.employee.testcases.DeleteEmployee -->
+      <class name="com.employee.testcases.GetAllEmployees">
+        <methods>
+          <include name="setup"/>
+          <include name="tearDown"/>
+          <include name="getAllEmployees"/>
+        </methods>
+      </class> <!-- com.employee.testcases.GetAllEmployees -->
+      <class name="com.employee.testcases.PostEmployees">
+        <methods>
+          <include name="setup"/>
+          <include name="checkContentLenght"/>
+          <include name="createemployees"/>
+          <include name="tearDown"/>
+          <include name="checkcontentEncoding"/>
+        </methods>
+      </class> <!-- com.employee.testcases.PostEmployees -->
+      <class name="com.employee.testcases.Update_Employees">
+        <methods>
+          <include name="checkContentLenght"/>
+          <include name="setup"/>
+          <include name="checkrepsonseBody"/>
+          <include name="updateemployees"/>
+          <include name="checkcontentEncoding"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.employee.testcases.Update_Employees -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
